@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a Database Developer.
-- 🔭 Working on SQL and NO-SQL databases, Visualization tools and python programming.
+- 🔭 Working on SQL and NO-SQL databases, Visualization tools and Python programming.
 - 🌱 Learning Django web framework
 
 ## 🔧Technologies & Tools
