@@ -16,12 +16,9 @@ I am a Database Developer.
 - [Use of “is distinct from” constraint in Postgresql](https://nidhig631.medium.com/use-of-is-distinct-from-constraint-in-postgresql-8d5d16dd14c3?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhig631&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhig631&layout=compact)](https://github.com/Nidhig631/github-readme-stats)
+![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhig631&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhig631&layout=compact)](https://github.com/Nidhig631/github-readme-stats)
 
 ![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nidhig631&repo=github-readme-stats)](https://github.com/Nidhig631/github-readme-stats)
-
 
 ## Connect with me
 
