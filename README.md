@@ -10,6 +10,7 @@ I am a Database Developer.
 
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Timescale” Database](https://nidhig631.medium.com/timescale-database-a18b52eff00?source=rss-114a44c68324------2)
 - [“ORDER BY” clause in Postgresql](https://nidhig631.medium.com/order-by-clause-in-postgresql-c0919256e47c?source=rss-114a44c68324------2)
 - [“IIF” function in SQL Server](https://nidhig631.medium.com/iif-function-in-sql-server-ac5225f713df?source=rss-114a44c68324------2)
 - [“@@Error” in SQL Server](https://nidhig631.medium.com/error-in-sql-server-a2075b93b3f7?source=rss-114a44c68324------2)
