@@ -18,9 +18,7 @@ I am a Database Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhig631&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhig631&layout=compact)](https://github.com/Nidhig631/github-readme-stats)
 
-
 ![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
-
 
 ## Connect with me
 
