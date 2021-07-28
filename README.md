@@ -20,6 +20,9 @@ I am a Database Developer.
 
 ![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nidhig631&repo=github-readme-stats)](https://github.com/Nidhig631/github-readme-stats)
+
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nidhig631)
