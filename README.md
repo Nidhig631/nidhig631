@@ -10,7 +10,7 @@ I am a Database Developer.
 
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [“Sending a text message from python code through Twilio”](https://nidhig631.medium.com/twilio-messaging-is-an-api-to-send-and-receive-sms-mms-ott-messages-globally-e1bef623b428?source=rss-114a44c68324------2)
+- [“Sending a text message from python using Twilio”](https://nidhig631.medium.com/twilio-messaging-is-an-api-to-send-and-receive-sms-mms-ott-messages-globally-e1bef623b428?source=rss-114a44c68324------2)
 - [“Timescale” Database](https://nidhig631.medium.com/timescale-database-a18b52eff00?source=rss-114a44c68324------2)
 - [“ORDER BY” clause in Postgresql](https://nidhig631.medium.com/order-by-clause-in-postgresql-c0919256e47c?source=rss-114a44c68324------2)
 - [“IIF” function in SQL Server](https://nidhig631.medium.com/iif-function-in-sql-server-ac5225f713df?source=rss-114a44c68324------2)
