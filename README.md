@@ -10,11 +10,11 @@ I am a Database Developer.
 
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Sending a text message from python code through Twilio”](https://nidhig631.medium.com/twilio-messaging-is-an-api-to-send-and-receive-sms-mms-ott-messages-globally-e1bef623b428?source=rss-114a44c68324------2)
 - [“Timescale” Database](https://nidhig631.medium.com/timescale-database-a18b52eff00?source=rss-114a44c68324------2)
 - [“ORDER BY” clause in Postgresql](https://nidhig631.medium.com/order-by-clause-in-postgresql-c0919256e47c?source=rss-114a44c68324------2)
 - [“IIF” function in SQL Server](https://nidhig631.medium.com/iif-function-in-sql-server-ac5225f713df?source=rss-114a44c68324------2)
 - [“@@Error” in SQL Server](https://nidhig631.medium.com/error-in-sql-server-a2075b93b3f7?source=rss-114a44c68324------2)
-- [Use of “is distinct from” constraint in Postgresql](https://nidhig631.medium.com/use-of-is-distinct-from-constraint-in-postgresql-8d5d16dd14c3?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhig631&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhig631&layout=compact)](https://github.com/Nidhig631/github-readme-stats)
