@@ -2,6 +2,7 @@
 I am a Database Developer.
 - 🔭 Working on SQL and NO-SQL databases, Visualization tools and Python programming.
 - 🌱 Learning Django web framework
+- 🌱 ELK stack ( Elasticsearch Logstash Kibana) 
 
 ## 🔧Technologies & Tools
 ![](https://img.shields.io/badge/SQL_DB-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
