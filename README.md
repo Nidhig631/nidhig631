@@ -5,7 +5,7 @@ I am a Database Developer.
 - 🌱 ELK stack ( Elasticsearch Logstash Kibana) 
 
 ## 🔧Technologies & Tools
-![](https://img.shields.io/badge/SQL_DB-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SQL_DB-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white ![](https://img.shields.io/badge/SQL_DB-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/NOSQL_DB-Mongo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/NOSQL_DB-Cassandra-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CloudDB-Snowflake-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
  ![](https://img.shields.io/badge/Visualization_Tool-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-Grafana-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
@@ -29,8 +29,5 @@ I am a Database Developer.
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nidhig631)
 [<img align="left" alt="Twitter-in" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/NidhiGu74193759)
 
-
-
-
 ## ![image](https://user-images.githubusercontent.com/47362011/131355166-bf84954e-5a0b-4f11-8a6e-7f567be49ea6.png) Website
-
+[<img align="left" alt="website" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nidhig631.medium.com)
