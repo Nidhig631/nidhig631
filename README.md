@@ -39,5 +39,5 @@ I am a Database Developer.
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nidhig631)
 [<img align="left" alt="Twitter-in" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/NidhiGu74193759)
 
-## <img src="https://user-images.githubusercontent.com/47362011/131355166-bf84954e-5a0b-4f11-8a6e-7f567be49ea6.png">Website
+## <img src="https://img.icons8.com/plasticine/100/000000/domain.png"/>Website
 [<img align="left" alt="website" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nidhig631.medium.com)
