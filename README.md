@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a Database Developer.
 - 🔭 Working on SQL and NO-SQL databases, Visualization tools and Python programming.
-- 🌱 Learning Django web framework
+- 🌱 Django web framework
 - 🌱 ELK stack ( Elasticsearch Logstash Kibana) 
 
 ## 🔧Technologies & Tools
