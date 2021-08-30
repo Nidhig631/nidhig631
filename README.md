@@ -5,12 +5,12 @@ I am a Database Developer.
 - 🌱 ELK stack ( Elasticsearch Logstash Kibana) 
 
 ## 🔧Technologies & Tools
-![](https://img.shields.io/badge/SQL_DB-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/SQL_DB-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
- ![](https://img.shields.io/badge/NOSQL_DB-Mongo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/NOSQL_DB-Cassandra-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CloudDB-Snowflake-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/SQL_DB-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/NOSQL_DB-Mongo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/NOSQL_DB-Cassandra-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CloudDB-Snowflake-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-Grafana-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
  
- ![](https://img.shields.io/badge/Visualization_Tool-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-Grafana-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+ ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+ 
+ 
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Choose() vs Case statements in SQL Server](https://nidhig631.medium.com/choose-vs-case-statements-in-sql-server-f484e515399f?source=rss-114a44c68324------2)
