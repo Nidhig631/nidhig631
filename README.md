@@ -33,8 +33,8 @@ I am a Database Developer.
 ![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
 
 ## <img src="https://img.icons8.com/ultraviolet/40/000000/domain.png"/>Website
-
 [<img align="left" alt="website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=website&logoColor=white" />](https://nidhig631.github.io/My_website)
+
 
 ## ![image](https://user-images.githubusercontent.com/47362011/131351706-42d0f506-f7ba-4faf-b9f8-960b48899f6e.png) Connect with me
 
