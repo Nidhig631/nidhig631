@@ -5,8 +5,10 @@ I am a Database Developer.
 - 🌱 ELK stack ( Elasticsearch Logstash Kibana) 
 
 ## 🔧Technologies & Tools
-![](https://img.shields.io/badge/SQL_DB-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white ![](https://img.shields.io/badge/SQL_DB-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SQL_DB-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/SQL_DB-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
  ![](https://img.shields.io/badge/NOSQL_DB-Mongo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/NOSQL_DB-Cassandra-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CloudDB-Snowflake-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+ 
  ![](https://img.shields.io/badge/Visualization_Tool-Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Visualization_Tool-Grafana-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## ✍Blog posts
