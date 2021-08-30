@@ -32,13 +32,13 @@ I am a Database Developer.
 
 ![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
 
-## <img src="https://img.icons8.com/ultraviolet/40/000000/domain.png"/>Website
-[<img align="left" alt="website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=website&logoColor=white"/>](https://nidhig631.github.io/My_website)
-
 ## <img src="https://user-images.githubusercontent.com/47362011/131351706-42d0f506-f7ba-4faf-b9f8-960b48899f6e.png"/>Connect with me
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nidhig631.medium.com)
 [<img align="left" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/nidhig631)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nidhig631)
 [<img align="left" alt="Twitter-in" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/NidhiGu74193759)
+
+## <img src="https://img.icons8.com/ultraviolet/40/000000/domain.png"/>Website
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=website&logoColor=white"/>](https://nidhig631.github.io/My_website)
 
 
