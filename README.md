@@ -22,7 +22,7 @@ I am a Database Developer.
 
 ![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
 
-## ![image](https://user-images.githubusercontent.com/47362011/131351192-128bf8cc-29d8-42bd-9a50-30e7326b080c.png)Connect with me
+## ![image](https://user-images.githubusercontent.com/47362011/131351522-6d565adf-ac44-46d0-86a5-9c48609396a6.png)Connect with me
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nidhig631.medium.com)
 [<img align="left" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/nidhig631)
