@@ -32,7 +32,7 @@ I am a Database Developer.
 
 ![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
 
-## <img src="https://img.icons8.com/plasticine/100/000000/domain.png"/>Website
+## ## <img src="https://img.icons8.com/plasticine/100/000000/domain.png"/>Website
 
 ## ![image](https://user-images.githubusercontent.com/47362011/131351706-42d0f506-f7ba-4faf-b9f8-960b48899f6e.png) Connect with me
 
