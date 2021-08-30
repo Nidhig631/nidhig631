@@ -12,7 +12,7 @@ I am a Database Developer.
  ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)  ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
  ![](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)  ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  ![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=whit)
  
-## OS
+## ![](<img src="https://img.icons8.com/material-rounded/24/000000/operating-system.png"/>)OS
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
 
 ## IDE
