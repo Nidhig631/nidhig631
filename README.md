@@ -21,11 +21,11 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping With Python](https://nidhig631.medium.com/web-scraping-with-python-b54f65c22f53?source=rss-114a44c68324------2)
 - [Choose() vs Case statements in SQL Server](https://nidhig631.medium.com/choose-vs-case-statements-in-sql-server-f484e515399f?source=rss-114a44c68324------2)
 - [“Bulk Data Load In Databases”](https://nidhig631.medium.com/bulk-data-load-in-databases-c0b5bc53a63?source=rss-114a44c68324------2)
 - [Merging multiple PDF files in Python](https://nidhig631.medium.com/merging-multiple-pdf-files-in-python-e3ccb776e989?source=rss-114a44c68324------2)
 - [PostgreSQL Database](https://nidhig631.medium.com/postgresql-database-bb43b4ee36da?source=rss-114a44c68324------2)
-- [“Sending a text message from python using Twilio”](https://nidhig631.medium.com/twilio-messaging-is-an-api-to-send-and-receive-sms-mms-ott-messages-globally-e1bef623b428?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhig631&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhig631&layout=compact)](https://github.com/Nidhig631/github-readme-stats)
