@@ -21,11 +21,11 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“WHERE” vs “HAVING” clauses in PostgreSQL](https://nidhig631.medium.com/where-vs-having-clauses-in-postgresql-2b1031cc3779?source=rss-114a44c68324------2)
 - [PostgreSQL Version- “13”](https://nidhig631.medium.com/postgresql-version-13-7efd39dfedc9?source=rss-114a44c68324------2)
 - [Web Scraping With Python](https://nidhig631.medium.com/web-scraping-with-python-b54f65c22f53?source=rss-114a44c68324------2)
 - [Choose() vs Case statements in SQL Server](https://nidhig631.medium.com/choose-vs-case-statements-in-sql-server-f484e515399f?source=rss-114a44c68324------2)
 - [“Bulk Data Load In Databases”](https://nidhig631.medium.com/bulk-data-load-in-databases-c0b5bc53a63?source=rss-114a44c68324------2)
-- [Merging multiple PDF files in Python](https://nidhig631.medium.com/merging-multiple-pdf-files-in-python-e3ccb776e989?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhig631&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhig631&layout=compact)](https://github.com/Nidhig631/github-readme-stats)
