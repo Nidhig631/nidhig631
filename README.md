@@ -21,7 +21,7 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [“WHERE” vs “HAVING” clauses in PostgreSQL](https://nidhig631.medium.com/where-vs-having-clauses-in-postgresql-2b1031cc3779?source=rss-114a44c68324------2)
+- [“WHERE” vs “HAVING” clause in PostgreSQL](https://nidhig631.medium.com/where-vs-having-clauses-in-postgresql-2b1031cc3779?source=rss-114a44c68324------2)
 - [PostgreSQL Version- “13”](https://nidhig631.medium.com/postgresql-version-13-7efd39dfedc9?source=rss-114a44c68324------2)
 - [Web Scraping With Python](https://nidhig631.medium.com/web-scraping-with-python-b54f65c22f53?source=rss-114a44c68324------2)
 - [Choose() vs Case statements in SQL Server](https://nidhig631.medium.com/choose-vs-case-statements-in-sql-server-f484e515399f?source=rss-114a44c68324------2)
