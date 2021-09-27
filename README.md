@@ -28,6 +28,9 @@ I am a Database Developer.
 - [PostgreSQL Version- “13”](https://nidhig631.medium.com/postgresql-version-13-7efd39dfedc9?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
+
+
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhig631&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhig631&layout=compact)](https://github.com/Nidhig631/github-readme-stats)
 
 ![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
