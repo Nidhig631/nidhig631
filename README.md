@@ -21,11 +21,11 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CRUD with Bulk data in Elasticsearch](https://nidhig631.medium.com/crud-in-elasticsearch-a73acdf3bc40?source=rss-114a44c68324------2)
 - [ELK stack components on Ubuntu ‍](https://nidhig631.medium.com/how-to-install-elk-stack-components-on-ubuntu-fd7aed3f7ec?source=rss-114a44c68324------2)
 - [Mappings in Elasticsearch](https://nidhig631.medium.com/mappings-in-elasticsearch-f4bae2b02ea4?source=rss-114a44c68324------2)
 - [“LIKE” vs “ILIKE” operator in PostgreSQL](https://nidhig631.medium.com/like-vs-ilike-operator-in-postgresql-f4f907b7073a?source=rss-114a44c68324------2)
 - [“WHERE” vs “HAVING” clause in PostgreSQL](https://medium.com/analytics-vidhya/where-vs-having-clauses-in-postgresql-2b1031cc3779?source=rss-114a44c68324------2)
-- [PostgreSQL Version- “13”](https://nidhig631.medium.com/postgresql-version-13-7efd39dfedc9?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
