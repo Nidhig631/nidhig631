@@ -21,7 +21,7 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Run SQL Queries from Postman](https://nidhig631.medium.com/run-sql-queries-from-postman-4f5fab242e3d?source=rss-114a44c68324------2)
+- [Run SQL Queries from Postman](https://code.likeagirl.io/run-sql-queries-from-postman-4f5fab242e3d?source=rss-114a44c68324------2)
 - [Import and Export data in Microsoft SQL Server](https://nidhig631.medium.com/import-and-export-data-in-microsoft-sql-server-348cbf7aa8f2?source=rss-114a44c68324------2)
 - [Import and Export data in MySQL](https://nidhig631.medium.com/import-and-export-data-in-mysql-b3b0908de136?source=rss-114a44c68324------2)
 - [CRUD with Bulk data in Elasticsearch](https://nidhig631.medium.com/crud-in-elasticsearch-a73acdf3bc40?source=rss-114a44c68324------2)
