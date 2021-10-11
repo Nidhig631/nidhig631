@@ -22,7 +22,7 @@ I am a Database Developer.
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Run SQL Queries from Postman](https://code.likeagirl.io/run-sql-queries-from-postman-4f5fab242e3d?source=rss-114a44c68324------2)
-- [Import and Export data in Microsoft SQL Server](https://nidhig631.medium.com/import-and-export-data-in-microsoft-sql-server-348cbf7aa8f2?source=rss-114a44c68324------2)
+- [Import and Export data in Microsoft SQL Server](https://code.likeagirl.io/import-and-export-data-in-microsoft-sql-server-348cbf7aa8f2?source=rss-114a44c68324------2)
 - [Import and Export data in MySQL](https://nidhig631.medium.com/import-and-export-data-in-mysql-b3b0908de136?source=rss-114a44c68324------2)
 - [CRUD with Bulk data in Elasticsearch](https://nidhig631.medium.com/crud-in-elasticsearch-a73acdf3bc40?source=rss-114a44c68324------2)
 - [ELK stack components on Ubuntu ‍](https://medium.com/analytics-vidhya/how-to-install-elk-stack-components-on-ubuntu-fd7aed3f7ec?source=rss-114a44c68324------2)
