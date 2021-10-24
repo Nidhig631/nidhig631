@@ -21,11 +21,11 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VACUUM in PostgreSQL](https://nidhig631.medium.com/vacuum-in-postgresql-9623a3b7e433?source=rss-114a44c68324------2)
 - [“CTID” field in PostgreSQL](https://nidhig631.medium.com/ctid-field-in-postgresql-d26977de7b58?source=rss-114a44c68324------2)
 - [Run SQL Queries from Postman](https://code.likeagirl.io/run-sql-queries-from-postman-4f5fab242e3d?source=rss-114a44c68324------2)
 - [Import and Export data in Microsoft SQL Server](https://code.likeagirl.io/import-and-export-data-in-microsoft-sql-server-348cbf7aa8f2?source=rss-114a44c68324------2)
 - [Import and Export data in MySQL](https://nidhig631.medium.com/import-and-export-data-in-mysql-b3b0908de136?source=rss-114a44c68324------2)
-- [CRUD with Bulk data in Elasticsearch](https://nidhig631.medium.com/crud-in-elasticsearch-a73acdf3bc40?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
