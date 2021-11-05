@@ -21,7 +21,7 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create One Table From Another Existing Table in SQL?](https://nidhig631.medium.com/how-to-create-one-table-from-another-existing-table-in-sql-bccf73656a1c?source=rss-114a44c68324------2)
+- [How to Create One Table From Another Existing Table in SQL?](https://medium.com/analytics-vidhya/how-to-create-one-table-from-another-existing-table-in-sql-bccf73656a1c?source=rss-114a44c68324------2)
 - [Indexes in PostgreSQL](https://nidhig631.medium.com/indexes-in-postgresql-4c8975662?source=rss-114a44c68324------2)
 - [VACUUM in PostgreSQL](https://nidhig631.medium.com/vacuum-in-postgresql-9623a3b7e433?source=rss-114a44c68324------2)
 - [“CTID” field in PostgreSQL](https://nidhig631.medium.com/ctid-field-in-postgresql-d26977de7b58?source=rss-114a44c68324------2)
