@@ -21,7 +21,7 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to search for special characters in the PostgreSQL database?](https://nidhig631.medium.com/how-to-search-for-special-characters-in-the-postgresql-database-ecb206440ca0?source=rss-114a44c68324------2)
+- [How to search for special characters in the PostgreSQL database?](https://code.likeagirl.io/how-to-search-for-special-characters-in-the-postgresql-database-ecb206440ca0?source=rss-114a44c68324------2)
 - [Delete and Update records using joins in PostgreSQL](https://nidhig631.medium.com/delete-and-update-records-using-joins-in-postgresql-ceeace9742fe?source=rss-114a44c68324------2)
 - [How to Create One Table From Another Existing Table in SQL?](https://medium.com/analytics-vidhya/how-to-create-one-table-from-another-existing-table-in-sql-bccf73656a1c?source=rss-114a44c68324------2)
 - [Indexes in PostgreSQL](https://nidhig631.medium.com/indexes-in-postgresql-4c8975662?source=rss-114a44c68324------2)
