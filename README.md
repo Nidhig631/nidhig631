@@ -21,11 +21,11 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to deal with a cyclic foreign key constraint using PostgreSQL?](https://nidhig631.medium.com/how-to-deal-with-a-cyclic-foreign-key-constraint-using-postgresql-2acf46719948?source=rss-114a44c68324------2)
 - [RabbitMQ Server And Clustering Setup on Ubuntu 18.04](https://code.likeagirl.io/rabbitmq-server-and-clustering-setup-on-ubuntu-18-04-f96fc1994567?source=rss-114a44c68324------2)
 - [ELK&lpar;Elasticserach, Logstash, and Kibana&rpar; STACK](https://nidhig631.medium.com/elk-elasticserach-logstash-and-kibana-stack-f8ee0eef5992?source=rss-114a44c68324------2)
 - [Performance of ‘=’ vs ‘like’ in SQL](https://nidhig631.medium.com/performance-of-vs-like-in-sql-950eb91b69ba?source=rss-114a44c68324------2)
 - [Deleting Duplicate Records From PostgresSQL Database](https://nidhig631.medium.com/deleting-duplicate-records-from-postgressql-database-f008291675fe?source=rss-114a44c68324------2)
-- [NoSQL Databases](https://nidhig631.medium.com/nosql-databases-6e5f0bde0c43?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
