@@ -21,7 +21,7 @@ I am a Database Developer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to deal with a cyclic foreign key constraint using PostgreSQL?](https://nidhig631.medium.com/how-to-deal-with-a-cyclic-foreign-key-constraint-using-postgresql-2acf46719948?source=rss-114a44c68324------2)
+- [How to deal with a cyclic foreign key constraint using PostgreSQL?](https://code.likeagirl.io/how-to-deal-with-a-cyclic-foreign-key-constraint-using-postgresql-2acf46719948?source=rss-114a44c68324------2)
 - [RabbitMQ Server And Clustering Setup on Ubuntu 18.04](https://code.likeagirl.io/rabbitmq-server-and-clustering-setup-on-ubuntu-18-04-f96fc1994567?source=rss-114a44c68324------2)
 - [ELK&lpar;Elasticserach, Logstash, and Kibana&rpar; STACK](https://code.likeagirl.io/elk-elasticserach-logstash-and-kibana-stack-f8ee0eef5992?source=rss-114a44c68324------2)
 - [Performance of ‘=’ vs ‘like’ in SQL](https://code.likeagirl.io/performance-of-vs-like-in-sql-950eb91b69ba?source=rss-114a44c68324------2)
