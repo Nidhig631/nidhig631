@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a Database Developer.
+I am a Database Engineer.
 - 🔭 Working on SQL and NO-SQL databases, Visualization tools and Python programming.
 - 🔭 ELK stack ( Elasticsearch Logstash Kibana) 
 - 🌱 Django web framework
