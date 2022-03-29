@@ -22,7 +22,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Group By vs Partition By in SQL](https://nidhig631.medium.com/group-by-vs-partition-by-in-sql-595a2be8b6e3?source=rss-114a44c68324------2)
+- [Group By vs Partition By in SQL](https://medium.com/analytics-vidhya/group-by-vs-partition-by-in-sql-595a2be8b6e3?source=rss-114a44c68324------2)
 - [Pgadmin4 with New updates](https://nidhig631.medium.com/pgadmin4-with-new-updates-56cac00e8250?source=rss-114a44c68324------2)
 - [How to deal with a cyclic foreign key constraint using PostgreSQL?](https://code.likeagirl.io/how-to-deal-with-a-cyclic-foreign-key-constraint-using-postgresql-2acf46719948?source=rss-114a44c68324------2)
 - [RabbitMQ Server And Clustering Setup on Ubuntu 18.04](https://code.likeagirl.io/rabbitmq-server-and-clustering-setup-on-ubuntu-18-04-f96fc1994567?source=rss-114a44c68324------2)
