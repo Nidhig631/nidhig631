@@ -22,11 +22,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL-15 with few new updates](https://nidhig631.medium.com/postgresql-15-with-few-new-updates-cbd90c6033fb?source=rss-114a44c68324------2)
 - [Re-Indexing in elastic search](https://medium.com/analytics-vidhya/re-indexing-in-elastic-search-f590f8b94074?source=rss-114a44c68324------2)
 - [Group By vs Partition By in SQL](https://code.likeagirl.io/group-by-vs-partition-by-in-sql-595a2be8b6e3?source=rss-114a44c68324------2)
 - [Pgadmin4 with New updates](https://nidhig631.medium.com/pgadmin4-with-new-updates-56cac00e8250?source=rss-114a44c68324------2)
 - [How to deal with a cyclic foreign key constraint using PostgreSQL?](https://code.likeagirl.io/how-to-deal-with-a-cyclic-foreign-key-constraint-using-postgresql-2acf46719948?source=rss-114a44c68324------2)
-- [RabbitMQ Server And Clustering Setup on Ubuntu 18.04](https://code.likeagirl.io/rabbitmq-server-and-clustering-setup-on-ubuntu-18-04-f96fc1994567?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
