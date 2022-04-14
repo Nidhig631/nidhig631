@@ -25,7 +25,7 @@ I am a Database Engineer.
 - [PostgreSQL-15 with few new updates](https://nidhig631.medium.com/postgresql-15-with-few-new-updates-cbd90c6033fb?source=rss-114a44c68324------2)
 - [Re-Indexing in elastic search](https://medium.com/analytics-vidhya/re-indexing-in-elastic-search-f590f8b94074?source=rss-114a44c68324------2)
 - [Group By vs Partition By in SQL](https://code.likeagirl.io/group-by-vs-partition-by-in-sql-595a2be8b6e3?source=rss-114a44c68324------2)
-- [Pgadmin4 with New updates](https://nidhig631.medium.com/pgadmin4-with-new-updates-56cac00e8250?source=rss-114a44c68324------2)
+- [Pgadmin4 with New updates](https://medium.com/analytics-vidhya/pgadmin4-with-new-updates-56cac00e8250?source=rss-114a44c68324------2)
 - [How to deal with a cyclic foreign key constraint using PostgreSQL?](https://code.likeagirl.io/how-to-deal-with-a-cyclic-foreign-key-constraint-using-postgresql-2acf46719948?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
