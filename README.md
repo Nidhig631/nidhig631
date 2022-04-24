@@ -22,11 +22,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OLAP vs OLTP](https://nidhig631.medium.com/olap-vs-oltp-5a0717c4e10f?source=rss-114a44c68324------2)
 - [Primary shards &amp; Replica shards in Elasticsearch](https://medium.com/analytics-vidhya/primary-shards-replica-shards-in-elasticsearch-269343324f86?source=rss-114a44c68324------2)
 - [PostgreSQL-15 with few new updates](https://medium.com/analytics-vidhya/postgresql-15-with-few-new-updates-cbd90c6033fb?source=rss-114a44c68324------2)
 - [Re-Indexing in elastic search](https://medium.com/analytics-vidhya/re-indexing-in-elastic-search-f590f8b94074?source=rss-114a44c68324------2)
 - [Group By vs Partition By in SQL](https://code.likeagirl.io/group-by-vs-partition-by-in-sql-595a2be8b6e3?source=rss-114a44c68324------2)
-- [Pgadmin4 with New updates](https://medium.com/analytics-vidhya/pgadmin4-with-new-updates-56cac00e8250?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
