@@ -22,7 +22,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hive](https://nidhig631.medium.com/hive-c68c6e729370?source=rss-114a44c68324------2)
+- [Hive](https://medium.com/analytics-vidhya/hive-c68c6e729370?source=rss-114a44c68324------2)
 - [Fivetran](https://medium.com/analytics-vidhya/fivetran-7cf352fd8043?source=rss-114a44c68324------2)
 - [Dimension, Fact, and Measure in Data warehouse](https://medium.com/analytics-vidhya/dimension-fact-and-measure-in-data-warehouse-52f7e9f7fdd6?source=rss-114a44c68324------2)
 - [MYSQL MERGE STATEMENT](https://medium.com/analytics-vidhya/mysql-merge-e0275c8aff8f?source=rss-114a44c68324------2)
