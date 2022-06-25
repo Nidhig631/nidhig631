@@ -1,11 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Nidhi Gupta </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm Nidhi Gupta </h1>
 <h3 align="center">Database Enginner ✍️ Technical Blogger </h3>
 
-### Hello World 👋
 I am a Database Engineer.
 - 🔭 Working on SQL and NO-SQL databases, Visualization tools and Python programming.
 - 🔭 ELK stack ( Elasticsearch Logstash Kibana) 
-- 🌱 Django web framework
+- 🌱 Azure
 - 🌱 Cloud computing
 
 ## 🔧Technologies & Tools
