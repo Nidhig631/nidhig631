@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DATA PROCESSING](https://nidhig631.medium.com/data-processing-ae424461fd02?source=rss-114a44c68324------2)
 - [Hive](https://medium.com/analytics-vidhya/hive-c68c6e729370?source=rss-114a44c68324------2)
 - [Fivetran](https://medium.com/analytics-vidhya/fivetran-7cf352fd8043?source=rss-114a44c68324------2)
 - [Dimension, Fact, and Measure in Data warehouse](https://medium.com/analytics-vidhya/dimension-fact-and-measure-in-data-warehouse-52f7e9f7fdd6?source=rss-114a44c68324------2)
 - [MYSQL MERGE STATEMENT](https://medium.com/analytics-vidhya/mysql-merge-e0275c8aff8f?source=rss-114a44c68324------2)
-- [Enable security on ELK](https://medium.com/analytics-vidhya/enable-security-on-elk-6b64160d993b?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
