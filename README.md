@@ -24,7 +24,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Database vs Datawarehouse vs Data Lake](https://nidhig631.medium.com/database-vs-datawarehouse-vs-data-lake-42e109e93da6?source=rss-114a44c68324------2)
+- [Database vs Datawarehouse vs Data Lake](https://medium.com/analytics-vidhya/database-vs-datawarehouse-vs-data-lake-42e109e93da6?source=rss-114a44c68324------2)
 - [DATA PROCESSING](https://medium.com/analytics-vidhya/data-processing-ae424461fd02?source=rss-114a44c68324------2)
 - [Hive](https://medium.com/analytics-vidhya/hive-c68c6e729370?source=rss-114a44c68324------2)
 - [Fivetran](https://medium.com/analytics-vidhya/fivetran-7cf352fd8043?source=rss-114a44c68324------2)
