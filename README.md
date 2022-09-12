@@ -24,8 +24,8 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Cloud-Based Models](https://nidhig631.medium.com/azure-cloud-based-models-26afe5aa7abf?source=rss-114a44c68324------2)
-- [Partitioning vs Clustering](https://nidhig631.medium.com/partitioning-vs-clustering-126a8c3cb1ee?source=rss-114a44c68324------2)
+- [Azure Cloud-Based Models](https://medium.com/analytics-vidhya/azure-cloud-based-models-26afe5aa7abf?source=rss-114a44c68324------2)
+- [Partitioning vs Clustering](https://medium.com/analytics-vidhya/partitioning-vs-clustering-126a8c3cb1ee?source=rss-114a44c68324------2)
 - [ANALYTICS](https://nidhig631.medium.com/analytics-884ec9b624e2?source=rss-114a44c68324------2)
 - [Data Modelling](https://nidhig631.medium.com/data-modelling-5cd8ecb7feb8?source=rss-114a44c68324------2)
 - [Database vs Datawarehouse vs Data Lake](https://medium.com/analytics-vidhya/database-vs-datawarehouse-vs-data-lake-42e109e93da6?source=rss-114a44c68324------2)
