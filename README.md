@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DECODE vs CASE IN ORACLE](https://nidhig631.medium.com/decode-vs-case-in-oracle-6f6441713ed7?source=rss-114a44c68324------2)
 - [GROUPING SET, ROLLUP, CUBE IN POSTGRESQL](https://nidhig631.medium.com/grouping-set-rollup-cube-in-postgresql-17a1e91887be?source=rss-114a44c68324------2)
 - [Azure Cloud-Based Models](https://medium.com/analytics-vidhya/azure-cloud-based-models-26afe5aa7abf?source=rss-114a44c68324------2)
 - [Partitioning vs Clustering](https://medium.com/analytics-vidhya/partitioning-vs-clustering-126a8c3cb1ee?source=rss-114a44c68324------2)
 - [ANALYTICS](https://nidhig631.medium.com/analytics-884ec9b624e2?source=rss-114a44c68324------2)
-- [Data Modelling](https://nidhig631.medium.com/data-modelling-5cd8ecb7feb8?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
