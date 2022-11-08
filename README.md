@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DATA LAKE vs DELTA LAKE](https://nidhig631.medium.com/data-lake-vs-delta-lake-794edd35e085?source=rss-114a44c68324------2)
 - [“UNIQUE NULLS NOT DISTINCT” IN POSTGRESQL 15](https://nidhig631.medium.com/unique-nulls-not-distinct-in-postgresql-15-cbef8cf0269f?source=rss-114a44c68324------2)
 - [DECODE vs CASE IN ORACLE](https://medium.com/analytics-vidhya/decode-vs-case-in-oracle-6f6441713ed7?source=rss-114a44c68324------2)
 - [GROUPING SET, ROLLUP, CUBE IN POSTGRESQL](https://nidhig631.medium.com/grouping-set-rollup-cube-in-postgresql-17a1e91887be?source=rss-114a44c68324------2)
 - [Azure Cloud-Based Models](https://medium.com/analytics-vidhya/azure-cloud-based-models-26afe5aa7abf?source=rss-114a44c68324------2)
-- [Partitioning vs Clustering](https://medium.com/analytics-vidhya/partitioning-vs-clustering-126a8c3cb1ee?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
