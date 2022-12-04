@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSV To JSON Using Copy Activity in ADF](https://nidhig631.medium.com/csv-to-json-using-copy-activity-in-adf-6acf433d0c53?source=rss-114a44c68324------2)
+- [AZURE DATA FACTORY](https://nidhig631.medium.com/azure-data-factory-2921bb999177?source=rss-114a44c68324------2)
 - [“ForEach” ACTIVITY IN AZURE DATA FACTORY&lpar;ADF&rpar;](https://nidhig631.medium.com/foreach-activity-in-azure-data-factory-adf-3aa76c4d57e0?source=rss-114a44c68324------2)
 - [Parameterization and Dynamic content at the Azure Data Factory](https://nidhig631.medium.com/parameterization-and-dynamic-content-at-the-azure-data-factory-49bfd7247dd9?source=rss-114a44c68324------2)
 - [DATA LAKE vs DELTA LAKE](https://nidhig631.medium.com/data-lake-vs-delta-lake-794edd35e085?source=rss-114a44c68324------2)
-- [“UNIQUE NULLS NOT DISTINCT” IN POSTGRESQL 15](https://nidhig631.medium.com/unique-nulls-not-distinct-in-postgresql-15-cbef8cf0269f?source=rss-114a44c68324------2)
-- [DECODE vs CASE IN ORACLE](https://medium.com/analytics-vidhya/decode-vs-case-in-oracle-6f6441713ed7?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
