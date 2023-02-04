@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DATABRICKS vs SPARK](https://nidhig631.medium.com/databricks-vs-spark-92fda42bdbcf?source=rss-114a44c68324------2)
 - [Python Useful Tricks](https://nidhig631.medium.com/python-useful-tricks-6c41b6bb77f1?source=rss-114a44c68324------2)
 - [CSV To JSON Using Copy Activity in ADF](https://nidhig631.medium.com/csv-to-json-using-copy-activity-in-adf-6acf433d0c53?source=rss-114a44c68324------2)
 - [AZURE DATA FACTORY](https://nidhig631.medium.com/azure-data-factory-2921bb999177?source=rss-114a44c68324------2)
 - [“ForEach” ACTIVITY IN AZURE DATA FACTORY&lpar;ADF&rpar;](https://nidhig631.medium.com/foreach-activity-in-azure-data-factory-adf-3aa76c4d57e0?source=rss-114a44c68324------2)
-- [Parameterization and Dynamic content at the Azure Data Factory](https://nidhig631.medium.com/parameterization-and-dynamic-content-at-the-azure-data-factory-49bfd7247dd9?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
