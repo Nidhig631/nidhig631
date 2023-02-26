@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [COPY MULTIPLE FILES ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/copy-multiple-files-adf-azure-data-factory-36bb0c113e5e?source=rss-114a44c68324------2)
 - [Load Data From Azure Data Lake Gen2 Storage to Azure Synapse Analytics Workspace Dedicated SQL Pool…](https://nidhig631.medium.com/load-data-from-azure-data-lake-gen2-storage-to-azure-synapse-analytics-workspace-dedicated-sql-pool-e6a98363f6fe?source=rss-114a44c68324------2)
 - [DATABRICKS vs SPARK](https://nidhig631.medium.com/databricks-vs-spark-92fda42bdbcf?source=rss-114a44c68324------2)
 - [Python Useful Tricks](https://nidhig631.medium.com/python-useful-tricks-6c41b6bb77f1?source=rss-114a44c68324------2)
 - [CSV To JSON Using Copy Activity in ADF](https://nidhig631.medium.com/csv-to-json-using-copy-activity-in-adf-6acf433d0c53?source=rss-114a44c68324------2)
-- [AZURE DATA FACTORY](https://nidhig631.medium.com/azure-data-factory-2921bb999177?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
