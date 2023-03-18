@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reuse the ADF pipeline from one ADF account to another ADF account in Azure](https://nidhig631.medium.com/reuse-the-adf-pipeline-from-one-adf-account-to-another-adf-account-in-azure-7f14ab16db09?source=rss-114a44c68324------2)
 - [SQL Interview Questions](https://nidhig631.medium.com/sql-interview-questions-a1811af29a78?source=rss-114a44c68324------2)
 - [ForEach, GetMetadata And Copy Activity in ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/foreach-getmetadata-and-copy-activity-in-adf-azure-data-factory-9a0efc5f6df4?source=rss-114a44c68324------2)
 - [CTE vs Temp Tables](https://nidhig631.medium.com/cte-vs-temp-tables-b18ef7cd79c7?source=rss-114a44c68324------2)
 - [COPY MULTIPLE FILES ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/copy-multiple-files-adf-azure-data-factory-36bb0c113e5e?source=rss-114a44c68324------2)
-- [Load Data From Azure Data Lake Gen2 Storage to Azure Synapse Analytics Workspace Dedicated SQL Pool…](https://nidhig631.medium.com/load-data-from-azure-data-lake-gen2-storage-to-azure-synapse-analytics-workspace-dedicated-sql-pool-e6a98363f6fe?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
