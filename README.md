@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Delete files from the source folder once data movement completes from source to destination in…](https://nidhig631.medium.com/delete-files-from-the-source-folder-once-data-movement-completes-from-source-to-destination-in-2fefc84efc1b?source=rss-114a44c68324------2)
 - [SKIP LINE COUNT IN ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/skip-line-count-in-adf-azure-data-factory-216f019cfa70?source=rss-114a44c68324------2)
 - [DELETE DUPLICATE RECORDS FROM THE TABLE WHEN ALL DUPLICATE ROWS HAVE THE SAME VALUE](https://nidhig631.medium.com/delete-duplicate-records-from-the-table-when-all-duplicate-rows-have-the-same-value-32a8973eedd0?source=rss-114a44c68324------2)
 - [Reuse the ADF pipeline from one ADF account to another ADF account in Azure](https://nidhig631.medium.com/reuse-the-adf-pipeline-from-one-adf-account-to-another-adf-account-in-azure-7f14ab16db09?source=rss-114a44c68324------2)
 - [SQL Interview Questions](https://nidhig631.medium.com/sql-interview-questions-a1811af29a78?source=rss-114a44c68324------2)
-- [ForEach, GetMetadata And Copy Activity in ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/foreach-getmetadata-and-copy-activity-in-adf-azure-data-factory-9a0efc5f6df4?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
