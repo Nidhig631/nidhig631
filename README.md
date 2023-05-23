@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Load In ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/data-load-in-adf-azure-data-factory-ec39de5f4ec3?source=rss-114a44c68324------2)
 - [Removal of duplicate records in ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/removal-of-duplicate-records-in-adf-azure-data-factory-e7da613d1c1c?source=rss-114a44c68324------2)
 - [Flow lets in Mapping Data Flow within ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/flow-lets-in-mapping-data-flow-within-adf-azure-data-factory-91de5c84533a?source=rss-114a44c68324------2)
 - [Star Schema vs Snowflake schema](https://medium.com/analytics-vidhya/star-schema-vs-snowflake-schema-78dc9424a8a2?source=rss-114a44c68324------2)
 - [“Get metadata activity” vs “Lookup activity “in ADF](https://nidhig631.medium.com/get-metadata-activity-vs-lookup-activity-in-adf-52ec328bea6e?source=rss-114a44c68324------2)
-- [Delete files from the source folder once data movement completes from source to destination in…](https://nidhig631.medium.com/delete-files-from-the-source-folder-once-data-movement-completes-from-source-to-destination-in-2fefc84efc1b?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
