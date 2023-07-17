@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Insights: Visualizing Data on GCP with Tableau](https://nidhig631.medium.com/unlocking-insights-visualizing-data-on-gcp-with-tableau-49fe542f1d1e?source=rss-114a44c68324------2)
 - [Azure Triggers](https://nidhig631.medium.com/azure-triggers-2d9b75fa1f47?source=rss-114a44c68324------2)
 - [Azure Databricks](https://nidhig631.medium.com/azure-databricks-2e6784ab2476?source=rss-114a44c68324------2)
 - [Copy Data from Rest API to ADL using dynamic parameters at Dataset and Linked Service.](https://nidhig631.medium.com/copy-data-from-rest-api-to-adl-using-dynamic-parameters-at-dataset-and-linked-service-b2254ee95a84?source=rss-114a44c68324------2)
 - [Data Load In ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/data-load-in-adf-azure-data-factory-ec39de5f4ec3?source=rss-114a44c68324------2)
-- [Removal of duplicate records in ADF&lpar;Azure Data Factory&rpar;](https://nidhig631.medium.com/removal-of-duplicate-records-in-adf-azure-data-factory-e7da613d1c1c?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
