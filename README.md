@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with Dates and Time in PySpark](https://nidhig631.medium.com/working-with-dates-and-time-in-pyspark-5dd337d40c26?source=rss-114a44c68324------2)
 - [Unleashing the Power of Azure Synapse with External Table](https://nidhig631.medium.com/unleashing-the-power-of-azure-synapse-with-external-table-4d1fa9cd7640?source=rss-114a44c68324------2)
 - [Unlocking Insights: Visualizing Data on GCP with Tableau](https://nidhig631.medium.com/unlocking-insights-visualizing-data-on-gcp-with-tableau-49fe542f1d1e?source=rss-114a44c68324------2)
 - [Azure Triggers](https://nidhig631.medium.com/azure-triggers-2d9b75fa1f47?source=rss-114a44c68324------2)
 - [Azure Databricks](https://nidhig631.medium.com/azure-databricks-2e6784ab2476?source=rss-114a44c68324------2)
-- [Copy Data from Rest API to ADL using dynamic parameters at Dataset and Linked Service.](https://nidhig631.medium.com/copy-data-from-rest-api-to-adl-using-dynamic-parameters-at-dataset-and-linked-service-b2254ee95a84?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
