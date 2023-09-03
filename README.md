@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Joins In Pyspark](https://nidhig631.medium.com/joins-in-pyspark-ee6b90ba7276?source=rss-114a44c68324------2)
 - [Demystifying Azure Integration Runtime&lpar;IR&rpar;](https://nidhig631.medium.com/demystifying-azure-integration-runtime-ir-7a011351eb35?source=rss-114a44c68324------2)
 - [Azure Data Engineering Interview Questions](https://nidhig631.medium.com/azure-data-engineering-interview-questions-d90cd3cf8de5?source=rss-114a44c68324------2)
 - [Working with Dates and Time in PySpark](https://nidhig631.medium.com/working-with-dates-and-time-in-pyspark-5dd337d40c26?source=rss-114a44c68324------2)
 - [Unleashing the Power of Azure Synapse with External Table](https://nidhig631.medium.com/unleashing-the-power-of-azure-synapse-with-external-table-4d1fa9cd7640?source=rss-114a44c68324------2)
-- [Unlocking Insights: Visualizing Data on GCP with Tableau](https://nidhig631.medium.com/unlocking-insights-visualizing-data-on-gcp-with-tableau-49fe542f1d1e?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
