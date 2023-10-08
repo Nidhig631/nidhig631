@@ -24,7 +24,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [POWER OF APACHE SPARK API](https://nidhig631.medium.com/power-of-apache-spark-api-befd2dc77300?source=rss-114a44c68324------2)
+- [POWER OF APACHE SPARK API](https://medium.com/analytics-vidhya/power-of-apache-spark-api-befd2dc77300?source=rss-114a44c68324------2)
 - [Unlocking Data Strategy-Which is Right for Your Business?](https://nidhig631.medium.com/database-vs-datalake-vs-datawarehouse-vs-datalakehouse-70bcb5523277?source=rss-114a44c68324------2)
 - [Joins In Pyspark](https://nidhig631.medium.com/joins-in-pyspark-ee6b90ba7276?source=rss-114a44c68324------2)
 - [Demystifying Azure Integration Runtime&lpar;IR&rpar;](https://nidhig631.medium.com/demystifying-azure-integration-runtime-ir-7a011351eb35?source=rss-114a44c68324------2)
