@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Power BI: Transforming Data with ETL Techniques](https://nidhig631.medium.com/power-bi-transforming-data-with-etl-techniques-03c3d9cf3b56?source=rss-114a44c68324------2)
 - [From Preparation to Success: “A Roadmap for Passing Databricks Certified Data Engineering…](https://nidhig631.medium.com/from-preparation-to-success-a-roadmap-for-passing-databricks-certified-data-engineering-8c22d78ce191?source=rss-114a44c68324------2)
 - [POWER OF APACHE SPARK API](https://medium.com/analytics-vidhya/power-of-apache-spark-api-befd2dc77300?source=rss-114a44c68324------2)
 - [Unlocking Data Strategy-Which is Right for Your Business?](https://nidhig631.medium.com/database-vs-datalake-vs-datawarehouse-vs-datalakehouse-70bcb5523277?source=rss-114a44c68324------2)
 - [Joins In Pyspark](https://nidhig631.medium.com/joins-in-pyspark-ee6b90ba7276?source=rss-114a44c68324------2)
-- [Demystifying Azure Integration Runtime&lpar;IR&rpar;](https://nidhig631.medium.com/demystifying-azure-integration-runtime-ir-7a011351eb35?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
