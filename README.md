@@ -24,11 +24,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Compression and Decompression of files using copy activity in the ADF pipeline](https://nidhig631.medium.com/compression-and-decompression-of-files-using-copy-activity-in-the-adf-pipeline-17d3090ff590?source=rss-114a44c68324------2)
 - [Exploring PySpark Setup in Visual Studio Code](https://nidhig631.medium.com/exploring-pyspark-setup-in-visual-studio-code-23f2bb778dde?source=rss-114a44c68324------2)
 - [Azure Synapse Series1: Demystifying The Power Of Azure Synapse Analytics](https://nidhig631.medium.com/azure-synapse-series1-demystifying-the-power-of-azure-synapse-analytics-4ddfbba53ad8?source=rss-114a44c68324------2)
 - [Power BI: Transforming Data with ETL Techniques](https://nidhig631.medium.com/power-bi-transforming-data-with-etl-techniques-03c3d9cf3b56?source=rss-114a44c68324------2)
 - [From Preparation to Success: “A Roadmap for Passing Databricks Certified Data Engineering…](https://nidhig631.medium.com/from-preparation-to-success-a-roadmap-for-passing-databricks-certified-data-engineering-8c22d78ce191?source=rss-114a44c68324------2)
-- [POWER OF APACHE SPARK API](https://medium.com/analytics-vidhya/power-of-apache-spark-api-befd2dc77300?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
