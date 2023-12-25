@@ -1,11 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm Nidhi Gupta </h1>
-<h3 align="center">Database Enginner ✍️ Technical Blogger </h3>
+<h3 align="center">Azure Data Enggineer ✍️ Technical Blogger </h3>
 
 I am a Database Engineer.
-- 🔭 Working on SQL and NO-SQL databases, Visualization tools and Python programming.
+- 🔭 SQL and NO-SQL databases, Visualization tools, and Python programming.
 - 🔭 ELK stack ( Elasticsearch Logstash Kibana) 
-- 🌱 Azure
-- 🌱 Cloud computing
+- 🔭 Azure, ADF, ADB, Azure Synapse 
+- 🔭 Tableau, Power BI
+- 🔭 ELK Stack 
+- 🌱 SPARK 
 
 ## 🔧Technologies & Tools
 ![](https://img.shields.io/badge/SQL_DB-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL_DB-Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
