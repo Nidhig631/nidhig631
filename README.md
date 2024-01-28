@@ -26,7 +26,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Excel, Tableau, Power BI, Kibana: Which Tool Fits Your Data Journey?](https://nidhig631.medium.com/excel-tableau-power-bi-kibana-which-tool-fits-your-data-journey-f245b96cf683?source=rss-114a44c68324------2)
+- [Excel, Tableau, Power BI, Kibana: Which Tool Fits Your Data Journey?](https://code.likeagirl.io/excel-tableau-power-bi-kibana-which-tool-fits-your-data-journey-f245b96cf683?source=rss-114a44c68324------2)
 - [Compression and Decompression of files using copy activity in the ADF pipeline](https://nidhig631.medium.com/compression-and-decompression-of-files-using-copy-activity-in-the-adf-pipeline-17d3090ff590?source=rss-114a44c68324------2)
 - [Exploring PySpark Setup in Visual Studio Code](https://nidhig631.medium.com/exploring-pyspark-setup-in-visual-studio-code-23f2bb778dde?source=rss-114a44c68324------2)
 - [Azure Synapse Series1: Demystifying The Power Of Azure Synapse Analytics](https://nidhig631.medium.com/azure-synapse-series1-demystifying-the-power-of-azure-synapse-analytics-4ddfbba53ad8?source=rss-114a44c68324------2)
