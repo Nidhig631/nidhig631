@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Query Performance: Enhancing Ingestion Time Clustering for Improved Efficiency](https://nidhig631.medium.com/optimizing-query-performance-enhancing-ingestion-time-clustering-for-improved-efficiency-ef2d4761030c?source=rss-114a44c68324------2)
 - [Unlocking Efficiency: Optimize, Z-order and Partition](https://nidhig631.medium.com/unlocking-efficiency-optimize-z-order-and-partition-a498c174caea?source=rss-114a44c68324------2)
 - [Data Management in Databricks: Data Object Hierarchy](https://nidhig631.medium.com/data-management-in-databricks-data-object-hierarchy-73d89fe571f2?source=rss-114a44c68324------2)
 - [Azure Synapse vs Databricks: Choosing the Right Big Data Platform](https://medium.com/analytics-vidhya/azure-synapse-vs-databricks-choosing-the-right-big-data-platform-67fa480f0354?source=rss-114a44c68324------2)
 - [Excel, Tableau, Power BI, Kibana: Which Tool Fits Your Data Journey?](https://code.likeagirl.io/excel-tableau-power-bi-kibana-which-tool-fits-your-data-journey-f245b96cf683?source=rss-114a44c68324------2)
-- [Compression and Decompression of files using copy activity in the ADF pipeline](https://nidhig631.medium.com/compression-and-decompression-of-files-using-copy-activity-in-the-adf-pipeline-17d3090ff590?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
