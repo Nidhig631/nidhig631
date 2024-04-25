@@ -26,7 +26,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Query Performance: Enhancing Ingestion Time Clustering for Improved Efficiency](https://nidhig631.medium.com/optimizing-query-performance-enhancing-ingestion-time-clustering-for-improved-efficiency-cd20c76f23ee?source=rss-114a44c68324------2)
+- [Optimizing Query Performance: Enhancing Ingestion Time Clustering for Improved Efficiency](https://medium.com/analytics-vidhya/optimizing-query-performance-enhancing-ingestion-time-clustering-for-improved-efficiency-cd20c76f23ee?source=rss-114a44c68324------2)
 - [Unlocking Efficiency: Optimize, Z-order and Partition](https://nidhig631.medium.com/unlocking-efficiency-optimize-z-order-and-partition-a498c174caea?source=rss-114a44c68324------2)
 - [Data Management in Databricks: Data Object Hierarchy](https://nidhig631.medium.com/data-management-in-databricks-data-object-hierarchy-73d89fe571f2?source=rss-114a44c68324------2)
 - [Azure Synapse vs Databricks: Choosing the Right Big Data Platform](https://medium.com/analytics-vidhya/azure-synapse-vs-databricks-choosing-the-right-big-data-platform-67fa480f0354?source=rss-114a44c68324------2)
