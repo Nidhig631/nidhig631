@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Accessing Databricks Tables from Postman](https://nidhig631.medium.com/accessing-databricks-tables-from-postman-a96959524709?source=rss-114a44c68324------2)
 - [Unity &amp; Azure Databricks: A Data Duo](https://nidhig631.medium.com/unity-azure-databricks-a-data-duo-2af0fec7ed22?source=rss-114a44c68324------2)
 - [How to Clone Data from one Delta Table Schema to Another Databricks](https://nidhig631.medium.com/how-to-clone-data-from-one-delta-table-schema-to-another-databricks-3d56fe51290e?source=rss-114a44c68324------2)
 - [Optimizing Query Performance: Enhancing Ingestion Time Clustering for Improved Efficiency](https://medium.com/analytics-vidhya/optimizing-query-performance-enhancing-ingestion-time-clustering-for-improved-efficiency-cd20c76f23ee?source=rss-114a44c68324------2)
 - [Unlocking Efficiency: Optimize, Z-order and Partition](https://nidhig631.medium.com/unlocking-efficiency-optimize-z-order-and-partition-a498c174caea?source=rss-114a44c68324------2)
-- [Data Management in Databricks: Data Object Hierarchy](https://nidhig631.medium.com/data-management-in-databricks-data-object-hierarchy-73d89fe571f2?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
