@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Series1: Exploring One Lake in Microsoft Fabric](https://nidhig631.medium.com/series2-exploring-one-lake-in-microsoft-fabric-a4dc0fef60a8?source=rss-114a44c68324------2)
 - [Series1: Exploring Microsoft Fabric&lpar;Unified Data Lake&rpar;](https://nidhig631.medium.com/series1-exploring-microsoft-fabric-unified-data-lake-b5f7640eba44?source=rss-114a44c68324------2)
 - [Liquid Clustering on Databricks&lpar;Databricks Runtime 13.3 and above&rpar;](https://nidhig631.medium.com/liquid-clustering-on-databricks-databricks-runtime-13-3-and-above-c5b492d933c4?source=rss-114a44c68324------2)
 - [Accessing Databricks Tables from Postman](https://nidhig631.medium.com/accessing-databricks-tables-from-postman-a96959524709?source=rss-114a44c68324------2)
 - [Unity &amp; Azure Databricks: A Data Duo](https://nidhig631.medium.com/unity-azure-databricks-a-data-duo-2af0fec7ed22?source=rss-114a44c68324------2)
-- [How to Clone Data from one Delta Table Schema to Another Databricks](https://nidhig631.medium.com/how-to-clone-data-from-one-delta-table-schema-to-another-databricks-3d56fe51290e?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
