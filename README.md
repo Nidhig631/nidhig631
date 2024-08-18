@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Blob Storage vs Azure DataLake Storage Gen2](https://nidhig631.medium.com/azure-blob-storage-vs-azure-datalake-storage-gen2-7cfd5a72bd84?source=rss-114a44c68324------2)
 - [Databricks Delta Live Table &lpar;DLT&rpar;: Turning SQL Queries into Pipelines](https://nidhig631.medium.com/databricks-delta-live-tables-dlt-turning-sql-queries-into-pipelines-b10707a7b704?source=rss-114a44c68324------2)
 - [Databricks Genie Space: Generative AI on Delta Tables](https://nidhig631.medium.com/databricks-genie-space-generative-ai-on-delta-tables-2618cb555f92?source=rss-114a44c68324------2)
 - [Series1: Exploring One Lake in Microsoft Fabric](https://nidhig631.medium.com/series2-exploring-one-lake-in-microsoft-fabric-a4dc0fef60a8?source=rss-114a44c68324------2)
 - [Series1: Exploring Microsoft Fabric&lpar;Unified Data Lake&rpar;](https://nidhig631.medium.com/series1-exploring-microsoft-fabric-unified-data-lake-b5f7640eba44?source=rss-114a44c68324------2)
-- [Liquid Clustering on Databricks&lpar;Databricks Runtime 13.3 and above&rpar;](https://nidhig631.medium.com/liquid-clustering-on-databricks-databricks-runtime-13-3-and-above-c5b492d933c4?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
