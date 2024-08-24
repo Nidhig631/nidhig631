@@ -26,7 +26,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [“Hive Metastore to Unity Catalog: Evolution of Data Management”](https://nidhig631.medium.com/hive-metastore-to-unity-catalog-evolution-of-data-management-b24bf1a8f2ea?source=rss-114a44c68324------2)
+- [HiveMetastore to Unity Catalog: Evolution of Data Management](https://nidhig631.medium.com/hive-metastore-to-unity-catalog-evolution-of-data-management-b24bf1a8f2ea?source=rss-114a44c68324------2)
 - [Working with Unity Catalog in Databricks: Overcoming Common Error](https://nidhig631.medium.com/working-with-unity-catalog-in-databricks-overcoming-common-error-63d2966e85c7?source=rss-114a44c68324------2)
 - [Azure Blob Storage vs Azure DataLake Storage Gen2](https://nidhig631.medium.com/azure-blob-storage-vs-azure-datalake-storage-gen2-7cfd5a72bd84?source=rss-114a44c68324------2)
 - [Databricks Delta Live Table &lpar;DLT&rpar;: Turning SQL Queries into Pipelines](https://nidhig631.medium.com/databricks-delta-live-tables-dlt-turning-sql-queries-into-pipelines-b10707a7b704?source=rss-114a44c68324------2)
