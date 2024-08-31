@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unity Catalog Data Governance: From Connections to Delta Sharing](https://nidhig631.medium.com/unity-catalog-data-governance-from-connections-to-delta-sharing-5cce994dee68?source=rss-114a44c68324------2)
 - [HiveMetastore to Unity Catalog: Evolution of Data Management](https://nidhig631.medium.com/hive-metastore-to-unity-catalog-evolution-of-data-management-b24bf1a8f2ea?source=rss-114a44c68324------2)
 - [Working with Unity Catalog in Databricks: Overcoming Common Error](https://nidhig631.medium.com/working-with-unity-catalog-in-databricks-overcoming-common-error-63d2966e85c7?source=rss-114a44c68324------2)
 - [Azure Blob Storage vs Azure DataLake Storage Gen2](https://nidhig631.medium.com/azure-blob-storage-vs-azure-datalake-storage-gen2-7cfd5a72bd84?source=rss-114a44c68324------2)
 - [Databricks Delta Live Table &lpar;DLT&rpar;: Turning SQL Queries into Pipelines](https://nidhig631.medium.com/databricks-delta-live-tables-dlt-turning-sql-queries-into-pipelines-b10707a7b704?source=rss-114a44c68324------2)
-- [Databricks Genie Space: Generative AI on Delta Tables](https://medium.com/analytics-vidhya/databricks-genie-space-generative-ai-on-delta-tables-2618cb555f92?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
