@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PySpark Schema Strategies: When to Use InferSchema, MergeSchema, and OverwriteSchema](https://nidhig631.medium.com/pyspark-schema-strategies-when-to-use-inferschema-mergeschema-and-overwriteschema-8866cfb4a085?source=rss-114a44c68324------2)
 - [Optimizing Real-Time Data Pipelines: Streaming Tables vs. Delta Live Tables](https://nidhig631.medium.com/optimizing-real-time-data-pipelines-streaming-tables-vs-delta-live-tables-43395b9af318?source=rss-114a44c68324------2)
 - [Unity Catalog Data Governance: From Connections to Delta Sharing](https://nidhig631.medium.com/unity-catalog-data-governance-from-connections-to-delta-sharing-5cce994dee68?source=rss-114a44c68324------2)
 - [HiveMetastore to Unity Catalog: Evolution of Data Management](https://nidhig631.medium.com/hive-metastore-to-unity-catalog-evolution-of-data-management-b24bf1a8f2ea?source=rss-114a44c68324------2)
 - [Working with Unity Catalog in Databricks: Overcoming Common Error](https://nidhig631.medium.com/working-with-unity-catalog-in-databricks-overcoming-common-error-63d2966e85c7?source=rss-114a44c68324------2)
-- [Azure Blob Storage vs Azure DataLake Storage Gen2](https://nidhig631.medium.com/azure-blob-storage-vs-azure-datalake-storage-gen2-7cfd5a72bd84?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
