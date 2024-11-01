@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Storage to Analysis: Accessing Azure Data Lake with Databricks](https://nidhig631.medium.com/from-storage-to-analysis-accessing-azure-data-lake-with-databricks-9a8ff2ebd022?source=rss-114a44c68324------2)
 - [How important is the order of columns in indexes?](https://nidhig631.medium.com/how-important-is-the-order-of-columns-in-indexes-eb1570704993?source=rss-114a44c68324------2)
 - [Ways to Optimize and Improve PostgreSQL Performance](https://nidhig631.medium.com/ways-to-optimize-and-improve-postgresql-performance-47d1b1189454?source=rss-114a44c68324------2)
 - [Explode vs Explode_outer in Databricks](https://nidhig631.medium.com/explode-vs-explode-outer-in-databricks-662421759956?source=rss-114a44c68324------2)
 - [PySpark Schema Strategies: When to Use InferSchema, MergeSchema, and OverwriteSchema](https://nidhig631.medium.com/pyspark-schema-strategies-when-to-use-inferschema-mergeschema-and-overwriteschema-8866cfb4a085?source=rss-114a44c68324------2)
-- [Optimizing Real-Time Data Pipelines: Streaming Tables vs. Delta Live Tables](https://nidhig631.medium.com/optimizing-real-time-data-pipelines-streaming-tables-vs-delta-live-tables-43395b9af318?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
