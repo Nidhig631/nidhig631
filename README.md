@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Databricks Express in Minutes](https://medium.com/analytics-vidhya/getting-started-with-databricks-express-in-minutes-a7ab61494f3c?source=rss-114a44c68324------2)
 - [From Storage to Analysis: Accessing Azure Data Lake with Databricks](https://nidhig631.medium.com/from-storage-to-analysis-accessing-azure-data-lake-with-databricks-9a8ff2ebd022?source=rss-114a44c68324------2)
 - [How important is the order of columns in indexes?](https://nidhig631.medium.com/how-important-is-the-order-of-columns-in-indexes-eb1570704993?source=rss-114a44c68324------2)
 - [Ways to Optimize and Improve PostgreSQL Performance](https://nidhig631.medium.com/ways-to-optimize-and-improve-postgresql-performance-47d1b1189454?source=rss-114a44c68324------2)
 - [Explode vs Explode_outer in Databricks](https://nidhig631.medium.com/explode-vs-explode-outer-in-databricks-662421759956?source=rss-114a44c68324------2)
-- [PySpark Schema Strategies: When to Use InferSchema, MergeSchema, and OverwriteSchema](https://nidhig631.medium.com/pyspark-schema-strategies-when-to-use-inferschema-mergeschema-and-overwriteschema-8866cfb4a085?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
