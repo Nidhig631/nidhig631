@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ElasticSearch](https://nidhig631.medium.com/elasticsearch-260618d764d5?source=rss-114a44c68324------2)
 - [Databricks Compute](https://nidhig631.medium.com/databricks-compute-07d3ab62a554?source=rss-114a44c68324------2)
 - [Unlocking the Power of Azure Databricks Mirrored Catalog](https://nidhig631.medium.com/unlocking-the-power-of-azure-databricks-mirrored-catalog-872ba7b826a7?source=rss-114a44c68324------2)
 - [Getting Started with Databricks Express in Minutes](https://medium.com/analytics-vidhya/getting-started-with-databricks-express-in-minutes-a7ab61494f3c?source=rss-114a44c68324------2)
 - [From Storage to Analysis: Accessing Azure Data Lake with Databricks](https://nidhig631.medium.com/from-storage-to-analysis-accessing-azure-data-lake-with-databricks-9a8ff2ebd022?source=rss-114a44c68324------2)
-- [How important is the order of columns in indexes?](https://nidhig631.medium.com/how-important-is-the-order-of-columns-in-indexes-eb1570704993?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
