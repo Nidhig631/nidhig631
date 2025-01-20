@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Preparation to Success: A Roadmap for Passing Microsoft Certified: Fabric Analytics Engineer…](https://nidhig631.medium.com/from-preparation-to-success-a-roadmap-for-passing-microsoft-certified-fabric-analytics-engineer-e110a70df427?source=rss-114a44c68324------2)
 - [The Fundamentals of Data Lineage in Databricks](https://nidhig631.medium.com/the-fundamentals-of-data-lineage-in-databricks-f3d4a8f94c31?source=rss-114a44c68324------2)
 - [ElasticSearch](https://nidhig631.medium.com/elasticsearch-260618d764d5?source=rss-114a44c68324------2)
 - [Databricks Compute](https://nidhig631.medium.com/databricks-compute-07d3ab62a554?source=rss-114a44c68324------2)
 - [Unlocking the Power of Azure Databricks Mirrored Catalog](https://nidhig631.medium.com/unlocking-the-power-of-azure-databricks-mirrored-catalog-872ba7b826a7?source=rss-114a44c68324------2)
-- [Getting Started with Databricks Express in Minutes](https://medium.com/analytics-vidhya/getting-started-with-databricks-express-in-minutes-a7ab61494f3c?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
