@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Unity Catalog with Medallion Architecture: A Mini Project](https://nidhig631.medium.com/implementing-unity-catalog-with-medallion-architecture-a-mini-project-87bad6e30bce?source=rss-114a44c68324------2)
 - [Storage Credential/External Location in Unity Catalog Enabled Azure Databricks Workspace](https://nidhig631.medium.com/storage-credential-external-location-in-unity-catalog-enabled-azure-databricks-workspace-eec76ae28072?source=rss-114a44c68324------2)
 - [Auto-Optimization in Databricks: A Smarter Alternative to OPTIMIZE](https://nidhig631.medium.com/auto-optimization-in-databricks-a-smarter-alternative-to-optimize-6a0fc4f123bd?source=rss-114a44c68324------2)
 - [Row Level Security&lpar;RLS&rpar; with Unity Catalog in Databricks](https://nidhig631.medium.com/row-level-security-rls-with-unity-catalog-in-databricks-56516b1741fa?source=rss-114a44c68324------2)
 - [From Preparation to Success: A Roadmap for Passing Microsoft Certified: Fabric Analytics Engineer…](https://nidhig631.medium.com/from-preparation-to-success-a-roadmap-for-passing-microsoft-certified-fabric-analytics-engineer-e110a70df427?source=rss-114a44c68324------2)
-- [The Fundamentals of Data Lineage in Databricks](https://nidhig631.medium.com/the-fundamentals-of-data-lineage-in-databricks-f3d4a8f94c31?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
