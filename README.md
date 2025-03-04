@@ -26,7 +26,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Effortlessly Flatten Any JSON in PySpark — No More Nested Headaches!](https://code.likeagirl.io/how-to-effortlessly-flatten-any-json-in-pyspark-no-more-nested-headaches-60a30bd36bb1?source=rss-114a44c68324------2)
+- [How to Effortlessly Flatten Any JSON in PySpark — No More Nested Headaches!](https://nidhig631.medium.com/how-to-effortlessly-flatten-any-json-in-pyspark-no-more-nested-headaches-60a30bd36bb1?source=rss-114a44c68324------2)
 - [Real-Time Data Sharing in Databricks: Streaming Data with Delta Sharing](https://nidhig631.medium.com/real-time-data-sharing-in-databricks-streaming-data-with-delta-sharing-966f2b966871?source=rss-114a44c68324------2)
 - [Implementing Unity Catalog with Medallion Architecture: A Mini Project](https://medium.com/analytics-vidhya/implementing-unity-catalog-with-medallion-architecture-a-mini-project-87bad6e30bce?source=rss-114a44c68324------2)
 - [Storage Credential/External Location in Unity Catalog Enabled Azure Databricks Workspace](https://nidhig631.medium.com/storage-credential-external-location-in-unity-catalog-enabled-azure-databricks-workspace-eec76ae28072?source=rss-114a44c68324------2)
