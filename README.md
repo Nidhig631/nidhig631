@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Preparation to Success: A Roadmap for Passing Microsoft Certified: Microsoft Fabric Data…](https://nidhig631.medium.com/from-preparation-to-success-a-roadmap-for-passing-microsoft-certified-microsoft-fabric-data-4ee3c56a4a76?source=rss-114a44c68324------2)
 - [How to Effortlessly Flatten Any JSON in PySpark — No More Nested Headaches!](https://nidhig631.medium.com/how-to-effortlessly-flatten-any-json-in-pyspark-no-more-nested-headaches-60a30bd36bb1?source=rss-114a44c68324------2)
 - [Real-Time Data Sharing in Databricks: Streaming Data with Delta Sharing](https://nidhig631.medium.com/real-time-data-sharing-in-databricks-streaming-data-with-delta-sharing-966f2b966871?source=rss-114a44c68324------2)
 - [Implementing Unity Catalog with Medallion Architecture: A Mini Project](https://medium.com/analytics-vidhya/implementing-unity-catalog-with-medallion-architecture-a-mini-project-87bad6e30bce?source=rss-114a44c68324------2)
 - [Storage Credential/External Location in Unity Catalog Enabled Azure Databricks Workspace](https://nidhig631.medium.com/storage-credential-external-location-in-unity-catalog-enabled-azure-databricks-workspace-eec76ae28072?source=rss-114a44c68324------2)
-- [Auto-Optimization in Databricks: A Smarter Alternative to OPTIMIZE](https://nidhig631.medium.com/auto-optimization-in-databricks-a-smarter-alternative-to-optimize-6a0fc4f123bd?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
