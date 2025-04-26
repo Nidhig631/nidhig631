@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dropped Your Table in Databricks? Here’s How Delta Lake Can Save You](https://nidhig631.medium.com/dropped-your-table-in-databricks-heres-how-delta-lake-can-save-you-b5039b85a3d3?source=rss-114a44c68324------2)
 - [Why Use dbt When Databricks Can Handle Complex Transformations?](https://nidhig631.medium.com/why-use-dbt-when-databricks-can-handle-complex-transformations-ca90b06ecc9f?source=rss-114a44c68324------2)
 - [Automatic Liquid Clustering:Optimized data layout for up to 10x faster queries](https://medium.com/analytics-vidhya/automatic-liquid-clustering-optimized-data-layout-for-up-to-10x-faster-queries-119ed6dd267c?source=rss-114a44c68324------2)
 - [Cluster Access Mode in Databricks](https://nidhig631.medium.com/cluster-access-mode-in-databricks-012fa318b542?source=rss-114a44c68324------2)
 - [From Preparation to Success: A Roadmap for Passing Microsoft Certified: Microsoft Fabric Data…](https://code.likeagirl.io/from-preparation-to-success-a-roadmap-for-passing-microsoft-certified-microsoft-fabric-data-4ee3c56a4a76?source=rss-114a44c68324------2)
-- [How to Effortlessly Flatten Any JSON in PySpark — No More Nested Headaches!](https://nidhig631.medium.com/how-to-effortlessly-flatten-any-json-in-pyspark-no-more-nested-headaches-60a30bd36bb1?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
