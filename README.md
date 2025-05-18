@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DBT &amp; Databricks &lpar;Part 1&rpar;- Setting Up Databricks with dbt Cloud — Step by Step Guide](https://nidhig631.medium.com/dbt-databricks-part-1-setting-up-databricks-with-dbt-cloud-step-by-step-guide-5eee50335c34?source=rss-114a44c68324------2)
 - [Materialised Views on Azure Databricks Workspace](https://nidhig631.medium.com/materialised-views-on-azure-databricks-workspace-eeb0a7af69d9?source=rss-114a44c68324------2)
 - [Dropped Your Table in Databricks? Here’s How Delta Lake Can Save You](https://nidhig631.medium.com/dropped-your-table-in-databricks-heres-how-delta-lake-can-save-you-b5039b85a3d3?source=rss-114a44c68324------2)
-- [Why Use dbt When Databricks Can Handle Complex Transformations?](https://nidhig631.medium.com/why-use-dbt-when-databricks-can-handle-complex-transformations-ca90b06ecc9f?source=rss-114a44c68324------2)
+- [DBT &amp; Databricks &lpar;Part 1&rpar;- Why Use dbt When Databricks Can Handle Complex Transformations?](https://nidhig631.medium.com/why-use-dbt-when-databricks-can-handle-complex-transformations-ca90b06ecc9f?source=rss-114a44c68324------2)
 - [Automatic Liquid Clustering:Optimized data layout for up to 10x faster queries](https://medium.com/analytics-vidhya/automatic-liquid-clustering-optimized-data-layout-for-up-to-10x-faster-queries-119ed6dd267c?source=rss-114a44c68324------2)
-- [Cluster Access Mode in Databricks](https://nidhig631.medium.com/cluster-access-mode-in-databricks-012fa318b542?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
