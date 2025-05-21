@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I'm Nidhi Gupta </h1>
-<h3 align="center">Azure Data Enggineer ✍️ Technical Blogger </h3>
+<h3 align="center">Senior Azure Data Enggineer ✍️ Technical Blogger </h3>
 
 I am a Database Engineer.
 - 🔭 SQL and NO-SQL databases, Visualization tools, and Python programming.
 - 🔭 ELK stack ( Elasticsearch Logstash Kibana) 
-- 🔭 Azure, ADF, ADB, Azure Synapse 
+- 🔭 Azure, ADF, ADB, Azure Synapse, Azure Databricks
 - 🔭 Tableau, Power BI
 - 🔭 ELK Stack 
 - 🌱 SPARK 
