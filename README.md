@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Real-World AI Applications with Gemini and Imagen on Google Cloud](https://nidhig631.medium.com/build-real-world-ai-applications-with-gemini-and-imagen-on-google-cloud-f11560300b0c?source=rss-114a44c68324------2)
 - [My Journey into Prompt Design with Vertex AI: What I Learned](https://nidhig631.medium.com/my-journey-into-prompt-design-with-vertex-ai-what-i-learned-f8d8b8017b5b?source=rss-114a44c68324------2)
 - [DBT &amp; Databricks &lpar;Part 3&rpar;- How to Integrate dbt Cloud with Databricks Using Partner Connect?](https://nidhig631.medium.com/dbt-databricks-part-3-how-to-integrate-dbt-cloud-with-databricks-using-partner-connect-f2eb3a6e8cb1?source=rss-114a44c68324------2)
 - [DBT &amp; Databricks &lpar;Part 1&rpar;- Setting Up Databricks with dbt Cloud — Step by Step Guide](https://nidhig631.medium.com/dbt-databricks-part-1-setting-up-databricks-with-dbt-cloud-step-by-step-guide-5eee50335c34?source=rss-114a44c68324------2)
 - [Materialised Views on Azure Databricks Workspace](https://nidhig631.medium.com/materialised-views-on-azure-databricks-workspace-eeb0a7af69d9?source=rss-114a44c68324------2)
-- [Dropped Your Table in Databricks? Here’s How Delta Lake Can Save You](https://nidhig631.medium.com/dropped-your-table-in-databricks-heres-how-delta-lake-can-save-you-b5039b85a3d3?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
