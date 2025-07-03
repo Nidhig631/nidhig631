@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring DBU Usage via Unity Catalog System Tables in Databricks](https://nidhig631.medium.com/monitoring-dbu-usage-via-unity-catalog-system-tables-in-databricks-16d69cd413be?source=rss-114a44c68324------2)
 - [How Fivetran, dbt, and Databricks Work Together?](https://nidhig631.medium.com/how-fivetran-dbt-and-databricks-work-together-bec2a6d5f7bc?source=rss-114a44c68324------2)
 - [Learning Databricks for Free? Know the Difference Between Free Trial and Free Edition](https://nidhig631.medium.com/learning-databricks-for-free-know-the-difference-between-free-trial-and-free-edition-bf97f48f836b?source=rss-114a44c68324------2)
 - [Series 1: Getting Started with Fivetran: What, Why, and How?](https://nidhig631.medium.com/series-1-getting-started-with-fivetran-what-why-and-how-8eef6fc023ad?source=rss-114a44c68324------2)
 - [Google Cloud Partner Perks: Get Certified for Free](https://nidhig631.medium.com/google-cloud-partner-perks-get-certified-for-free-43e30c1c3db1?source=rss-114a44c68324------2)
-- [Build Real-World AI Applications with Gemini and Imagen on Google Cloud](https://nidhig631.medium.com/build-real-world-ai-applications-with-gemini-and-imagen-on-google-cloud-f11560300b0c?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
