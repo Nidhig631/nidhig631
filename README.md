@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of No-Code/Low-Code: Why It’s Reshaping the Future of Tech](https://nidhig631.medium.com/the-rise-of-no-code-low-code-why-its-reshaping-the-future-of-tech-7c5154a5751d?source=rss-114a44c68324------2)
 - [Databricks Marketplace Partner Connect Integration: Fivetran Integration](https://nidhig631.medium.com/databricks-marketplace-partner-connect-integration-fivetran-integration-7c7098a06b9e?source=rss-114a44c68324------2)
 - [Monitoring DBU Usage via Unity Catalog System Tables in Databricks](https://nidhig631.medium.com/monitoring-dbu-usage-via-unity-catalog-system-tables-in-databricks-16d69cd413be?source=rss-114a44c68324------2)
 - [How Fivetran, dbt, and Databricks Work Together?](https://nidhig631.medium.com/how-fivetran-dbt-and-databricks-work-together-bec2a6d5f7bc?source=rss-114a44c68324------2)
 - [Learning Databricks for Free? Know the Difference Between Free Trial and Free Edition](https://nidhig631.medium.com/learning-databricks-for-free-know-the-difference-between-free-trial-and-free-edition-bf97f48f836b?source=rss-114a44c68324------2)
-- [Series 1: Getting Started with Fivetran: What, Why, and How?](https://nidhig631.medium.com/series-1-getting-started-with-fivetran-what-why-and-how-8eef6fc023ad?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
