@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Freedom or Burden? Living in the Age of Easy Loans](https://nidhig631.medium.com/freedom-or-burden-living-in-the-age-of-easy-loans-3a78aa68b30d?source=rss-114a44c68324------2)
 - [Real-Time Data Ingestion Using Apace Kafka](https://nidhig631.medium.com/real-time-data-ingestion-using-apace-kafka-e18bd1aa22e2?source=rss-114a44c68324------2)
 - [Databricks LakeFlow](https://nidhig631.medium.com/databricks-lakeflow-b4024e98cf7b?source=rss-114a44c68324------2)
 - [Build Your AI Agent on Databricks: Azure Databricks Power Platform Connector](https://nidhig631.medium.com/build-your-ai-agent-on-databricks-azure-databricks-power-platform-connector-61d4e9ced981?source=rss-114a44c68324------2)
 - [All the Latest Databricks Updates You Should Know &lpar;July 2025&rpar;](https://nidhig631.medium.com/all-the-latest-databricks-updates-you-should-know-july-2025-0ec590c7af1a?source=rss-114a44c68324------2)
-- [The Rise of No-Code/Low-Code: Why It’s Reshaping the Future of Tech](https://nidhig631.medium.com/the-rise-of-no-code-low-code-why-its-reshaping-the-future-of-tech-7c5154a5751d?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
