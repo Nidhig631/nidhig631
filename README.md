@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks For Data Engineering](https://nidhig631.medium.com/databricks-for-data-engineering-797547a0a138?source=rss-114a44c68324------2)
 - [Databricks: The New SQL Editor](https://nidhig631.medium.com/databricks-the-new-sql-editor-cdd471b2960a?source=rss-114a44c68324------2)
 - [Freedom or Burden? Living in the Age of Easy Loans](https://nidhig631.medium.com/freedom-or-burden-living-in-the-age-of-easy-loans-3a78aa68b30d?source=rss-114a44c68324------2)
 - [Real-Time Data Ingestion Using Apache Kafka](https://nidhig631.medium.com/real-time-data-ingestion-using-apace-kafka-e18bd1aa22e2?source=rss-114a44c68324------2)
 - [Databricks LakeFlow](https://nidhig631.medium.com/databricks-lakeflow-b4024e98cf7b?source=rss-114a44c68324------2)
-- [Build Your AI Agent on Databricks: Azure Databricks Power Platform Connector](https://nidhig631.medium.com/build-your-ai-agent-on-databricks-azure-databricks-power-platform-connector-61d4e9ced981?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
