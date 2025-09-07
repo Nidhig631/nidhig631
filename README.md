@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Interview Feedback Always Right?](https://nidhig631.medium.com/is-interview-feedback-always-right-640703b43c72?source=rss-114a44c68324------2)
 - [Databrick LakeFlow Connect](https://nidhig631.medium.com/databrick-lakeflow-connect-6c06bb3b27b2?source=rss-114a44c68324------2)
 - [Databricks Lakeflow Jobs](https://nidhig631.medium.com/databricks-lakeflow-jobs-4d8e6c26e984?source=rss-114a44c68324------2)
 - [STAY CERTIFIED WITH PARTNER EXPRESS](https://nidhig631.medium.com/stay-certified-with-partner-express-58380140c81c?source=rss-114a44c68324------2)
 - [Build a Data Pipeline with Lakeflow Declarative Pipelines- Mini Project Demo](https://nidhig631.medium.com/build-a-data-pipeline-with-lakeflow-declarative-pipelines-mini-project-demo-9bf47f445a67?source=rss-114a44c68324------2)
-- [Databricks For Data Engineering](https://nidhig631.medium.com/databricks-for-data-engineering-797547a0a138?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
