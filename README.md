@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Chaos to Clarity: Best Practices for Using Genie Spaces in Databricks](https://nidhig631.medium.com/from-chaos-to-clarity-best-practices-for-using-genie-spaces-in-databricks-9fda837fc0a4?source=rss-114a44c68324------2)
 - [View vs Materialised Views in PostgreSQL](https://nidhig631.medium.com/view-vs-materialised-views-in-postgresql-24510832fdc0?source=rss-114a44c68324------2)
 - [LakeFlow Designer : No Code ETL + AI](https://nidhig631.medium.com/lakeflow-designer-no-code-etl-ai-c673dd480b50?source=rss-114a44c68324------2)
 - [Is Interview Feedback Always Right?](https://nidhig631.medium.com/is-interview-feedback-always-right-640703b43c72?source=rss-114a44c68324------2)
 - [Databrick LakeFlow Connect](https://nidhig631.medium.com/databrick-lakeflow-connect-6c06bb3b27b2?source=rss-114a44c68324------2)
-- [Databricks Lakeflow Jobs](https://nidhig631.medium.com/databricks-lakeflow-jobs-4d8e6c26e984?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
