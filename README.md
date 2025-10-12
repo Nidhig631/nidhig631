@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks Geos and Designated Services- The Simple Way](https://nidhig631.medium.com/databricks-geos-and-designated-services-the-simple-way-7aca45c5bdba?source=rss-114a44c68324------2)
 - [Unity Catalog](https://nidhig631.medium.com/unity-catalog-387075239aa1?source=rss-114a44c68324------2)
 - [Why Databricks Lakehouse?](https://nidhig631.medium.com/why-databricks-lakehouse-86c457021777?source=rss-114a44c68324------2)
 - [Databricks Deletion Vector](https://nidhig631.medium.com/databricks-deletion-vector-5e9a85aa1d13?source=rss-114a44c68324------2)
 - [Automatic Identity Management for Entra ID on Azure Databricks](https://nidhig631.medium.com/automatic-identity-management-for-entra-id-on-azure-databricks-19cc5413633d?source=rss-114a44c68324------2)
-- [From Chaos to Clarity: Best Practices for Using Genie Spaces in Databricks](https://nidhig631.medium.com/from-chaos-to-clarity-best-practices-for-using-genie-spaces-in-databricks-9fda837fc0a4?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
