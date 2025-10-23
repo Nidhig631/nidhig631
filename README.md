@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unity Catalog Practical](https://nidhig631.medium.com/unity-catalog-practical-d581dffae13d?source=rss-114a44c68324------2)
 - [Databricks Lakeflow: The Future of Data Pipelines — Simpler, Faster, and Smarter than ADF&lpar;Azure…](https://nidhig631.medium.com/databricks-lakeflow-the-future-of-data-pipelines-simpler-faster-and-smarter-than-adf-azure-1f6b7a9a83e5?source=rss-114a44c68324------2)
 - [Databricks Geos and Designated Services- The Simple Way](https://nidhig631.medium.com/databricks-geos-and-designated-services-the-simple-way-7aca45c5bdba?source=rss-114a44c68324------2)
 - [Unity Catalog](https://nidhig631.medium.com/unity-catalog-387075239aa1?source=rss-114a44c68324------2)
 - [Why Databricks Lakehouse?](https://nidhig631.medium.com/why-databricks-lakehouse-86c457021777?source=rss-114a44c68324------2)
-- [Databricks Deletion Vector](https://nidhig631.medium.com/databricks-deletion-vector-5e9a85aa1d13?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
