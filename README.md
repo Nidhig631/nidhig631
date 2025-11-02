@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conversational Agent App in Databricks](https://nidhig631.medium.com/conversational-agent-app-in-databricks-8b767e17d63a?source=rss-114a44c68324------2)
 - [My Journey to Becoming a Databricks MVP](https://nidhig631.medium.com/my-journey-to-becoming-a-databricks-mvp-594686b606e5?source=rss-114a44c68324------2)
 - [How a Business User Got Instant Insights from Databricks — Microsoft Copilot Studio](https://nidhig631.medium.com/how-a-business-user-got-instant-insights-from-databricks-microsoft-copilot-studio-2f69a17a6192?source=rss-114a44c68324------2)
 - [Unity Catalog Practical](https://nidhig631.medium.com/unity-catalog-practical-d581dffae13d?source=rss-114a44c68324------2)
 - [Databricks Lakeflow: The Future of Data Pipelines — Simpler, Faster, and Smarter than ADF&lpar;Azure…](https://nidhig631.medium.com/databricks-lakeflow-the-future-of-data-pipelines-simpler-faster-and-smarter-than-adf-azure-1f6b7a9a83e5?source=rss-114a44c68324------2)
-- [Databricks Geos and Designated Services- The Simple Way](https://nidhig631.medium.com/databricks-geos-and-designated-services-the-simple-way-7aca45c5bdba?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
