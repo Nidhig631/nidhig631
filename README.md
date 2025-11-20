@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lakeflow Spark Declarative Pipelines Editor — IDE for Data Engineering, all in one place.](https://nidhig631.medium.com/lakeflow-spark-declarative-pipelines-editor-ide-for-data-engineering-all-in-one-place-030edb143f74?source=rss-114a44c68324------2)
 - [Databricks One](https://nidhig631.medium.com/databricks-one-36fe214bd196?source=rss-114a44c68324------2)
 - [Understanding Access Requests in Databricks Unity Catalog](https://nidhig631.medium.com/understanding-access-requests-in-databricks-unity-catalog-fbde75aece98?source=rss-114a44c68324------2)
 - [Conversational Agent App in Databricks](https://nidhig631.medium.com/conversational-agent-app-in-databricks-8b767e17d63a?source=rss-114a44c68324------2)
 - [My Journey to Becoming a Databricks MVP](https://nidhig631.medium.com/my-journey-to-becoming-a-databricks-mvp-594686b606e5?source=rss-114a44c68324------2)
-- [How a Business User Got Instant Insights from Databricks — Microsoft Copilot Studio](https://nidhig631.medium.com/how-a-business-user-got-instant-insights-from-databricks-microsoft-copilot-studio-2f69a17a6192?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
