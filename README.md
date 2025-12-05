@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Connect Genie to a Copilot Agent in Copilot Studio: A Complete Guide](https://nidhig631.medium.com/how-to-connect-genie-to-a-copilot-agent-in-copilot-studio-a-complete-guide-ae96eaab3ac6?source=rss-114a44c68324------2)
 - [Modern Data Integration](https://nidhig631.medium.com/modern-data-integration-0700fc224ba2?source=rss-114a44c68324------2)
 - [Databricks Lakebase- Postgres Database&lpar;Reverse ETL&rpar;](https://nidhig631.medium.com/databricks-lakebase-postgres-database-reverse-etl-7fdfc9b3a04b?source=rss-114a44c68324------2)
 - [Lakebase + Databricks: Building a Truly Transactional Data Layer for Your Apps](https://nidhig631.medium.com/lakebase-databricks-building-a-truly-transactional-data-layer-for-your-apps-d611fde249e4?source=rss-114a44c68324------2)
 - [Lakeflow Spark Declarative Pipelines Editor — IDE for Data Engineering, all in one place.](https://nidhig631.medium.com/lakeflow-spark-declarative-pipelines-editor-ide-for-data-engineering-all-in-one-place-030edb143f74?source=rss-114a44c68324------2)
-- [Databricks One](https://nidhig631.medium.com/databricks-one-36fe214bd196?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
