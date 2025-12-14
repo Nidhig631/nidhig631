@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Category Revenue ETL Pipeline — @Namaste SQL](https://nidhig631.medium.com/category-revenue-etl-pipeline-namaste-sql-f6631269b7e8?source=rss-114a44c68324------2)
 - [How to Schedule a Databricks Certification Exam -Simple Guide](https://nidhig631.medium.com/how-to-schedule-a-databricks-certification-exam-simple-guide-c3cc9a471b14?source=rss-114a44c68324------2)
 - [Automating HR Operations with Microsoft Copilot Studio and the Dataverse MCP Server](https://nidhig631.medium.com/automating-hr-operations-with-microsoft-copilot-studio-and-the-dataverse-mcp-server-ca06619375f2?source=rss-114a44c68324------2)
 - [How to Connect Genie to a Copilot Agent in Copilot Studio: A Complete Guide](https://nidhig631.medium.com/how-to-connect-genie-to-a-copilot-agent-in-copilot-studio-a-complete-guide-ae96eaab3ac6?source=rss-114a44c68324------2)
 - [Modern Data Integration](https://nidhig631.medium.com/modern-data-integration-0700fc224ba2?source=rss-114a44c68324------2)
-- [Databricks Lakebase- Postgres Database&lpar;Reverse ETL&rpar;](https://nidhig631.medium.com/databricks-lakebase-postgres-database-reverse-etl-7fdfc9b3a04b?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
