@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Patriarchy in Indian Society: The Problem We Don’t Question](https://nidhig631.medium.com/patriarchy-in-indian-society-the-problem-we-dont-question-52d6c8a71c1d?source=rss-114a44c68324------2)
 - [Apache Airflow to Lakeflow Jobs:](https://nidhig631.medium.com/apache-airflow-to-lakeflow-jobs-ac90b141a698?source=rss-114a44c68324------2)
 - [Research Agent in Databricks Genie Spaces](https://nidhig631.medium.com/research-agent-in-databricks-genie-spaces-5168d9609e24?source=rss-114a44c68324------2)
 - [Category Revenue ETL Pipeline — @Namaste SQL](https://nidhig631.medium.com/category-revenue-etl-pipeline-namaste-sql-f6631269b7e8?source=rss-114a44c68324------2)
 - [How to Schedule a Databricks Certification Exam -Simple Guide](https://nidhig631.medium.com/how-to-schedule-a-databricks-certification-exam-simple-guide-c3cc9a471b14?source=rss-114a44c68324------2)
-- [Automating HR Operations with Microsoft Copilot Studio and the Dataverse MCP Server](https://nidhig631.medium.com/automating-hr-operations-with-microsoft-copilot-studio-and-the-dataverse-mcp-server-ca06619375f2?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
