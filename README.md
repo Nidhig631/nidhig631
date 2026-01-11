@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hidden Magic Commands in Databricks Notebooks](https://nidhig631.medium.com/hidden-magic-commands-in-databricks-notebooks-739e53d89113?source=rss-114a44c68324------2)
 - [Databricks LakeBridge: Simplifying Code and Data Migration to Databricks](https://nidhig631.medium.com/databricks-lakebridge-simplifying-code-and-data-migration-to-databricks-456561fc3830?source=rss-114a44c68324------2)
 - [Patriarchy in Indian Society: The Problem We Don’t Question](https://nidhig631.medium.com/patriarchy-in-indian-society-the-problem-we-dont-question-52d6c8a71c1d?source=rss-114a44c68324------2)
 - [Apache Airflow to Lakeflow Jobs:](https://nidhig631.medium.com/apache-airflow-to-lakeflow-jobs-ac90b141a698?source=rss-114a44c68324------2)
 - [Research Agent in Databricks Genie Spaces](https://nidhig631.medium.com/research-agent-in-databricks-genie-spaces-5168d9609e24?source=rss-114a44c68324------2)
-- [Category Revenue ETL Pipeline — @Namaste SQL](https://nidhig631.medium.com/category-revenue-etl-pipeline-namaste-sql-f6631269b7e8?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
