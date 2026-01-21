@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Did You Notice This in Databricks? A New Way to Govern, Connect, Create and Share](https://nidhig631.medium.com/did-you-notice-this-in-databricks-a-new-way-to-govern-connect-create-and-share-9bdbc22aebb1?source=rss-114a44c68324------2)
 - [The “Temple Device” Worn by Deepinder Goyal&lpar;Zomato Founder&rpar; Curiosity, Criticism, and What It Says…](https://nidhig631.medium.com/the-temple-device-worn-by-deepinder-goyal-zomato-founder-curiosity-criticism-and-what-it-says-c4f9726bd9db?source=rss-114a44c68324------2)
 - [Hidden Magic Commands in Databricks Notebooks](https://nidhig631.medium.com/hidden-magic-commands-in-databricks-notebooks-739e53d89113?source=rss-114a44c68324------2)
 - [Databricks LakeBridge: Simplifying Code and Data Migration to Databricks](https://nidhig631.medium.com/databricks-lakebridge-simplifying-code-and-data-migration-to-databricks-456561fc3830?source=rss-114a44c68324------2)
 - [Patriarchy in Indian Society: The Problem We Don’t Question](https://nidhig631.medium.com/patriarchy-in-indian-society-the-problem-we-dont-question-52d6c8a71c1d?source=rss-114a44c68324------2)
-- [Apache Airflow to Lakeflow Jobs:](https://nidhig631.medium.com/apache-airflow-to-lakeflow-jobs-ac90b141a698?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
