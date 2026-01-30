@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Small Databricks Feature That Makes Demos and Knowledge Sharing Easier](https://nidhig631.medium.com/a-small-databricks-feature-that-makes-demos-and-knowledge-sharing-easier-bf51305d8234?source=rss-114a44c68324------2)
 - [Ingest Google Drive files into Azure Databricks](https://nidhig631.medium.com/ingest-google-drive-files-into-azure-databricks-f06d263d84ec?source=rss-114a44c68324------2)
 - [One Decision That Shapes Your Databricks Platform: Workspace Type](https://nidhig631.medium.com/one-decision-that-shapes-your-databricks-platform-workspace-type-bc7f606446fc?source=rss-114a44c68324------2)
 - [Understanding Instructions vs Topics in Copilot Studio &lpar;With Real Examples&rpar;](https://nidhig631.medium.com/understanding-instructions-vs-topics-in-copilot-studio-with-real-examples-045124c6ba51?source=rss-114a44c68324------2)
 - [Did You Notice This in Databricks? A New Way to Govern, Connect, Create and Share](https://nidhig631.medium.com/did-you-notice-this-in-databricks-a-new-way-to-govern-connect-create-and-share-9bdbc22aebb1?source=rss-114a44c68324------2)
-- [The “Temple Device” Worn by Deepinder Goyal&lpar;Zomato Founder&rpar; Curiosity, Criticism, and What It Says…](https://nidhig631.medium.com/the-temple-device-worn-by-deepinder-goyal-zomato-founder-curiosity-criticism-and-what-it-says-c4f9726bd9db?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
