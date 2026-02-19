@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Guessing Your Data’s Trust Level: Use Databricks System Tags](https://nidhig631.medium.com/stop-guessing-your-datas-trust-level-use-databricks-system-tags-231dbfa186f9?source=rss-114a44c68324------2)
 - [Mastering Feedback in Microsoft Copilot Studio: How Smart Teams Make Their Copilots Better](https://nidhig631.medium.com/mastering-feedback-in-microsoft-copilot-studio-how-smart-teams-make-their-copilots-better-f6f80abff35f?source=rss-114a44c68324------2)
 - [Understanding the Topics Section in Microsoft Copilot Studio](https://nidhig631.medium.com/understanding-the-topics-section-in-microsoft-copilot-studio-43e818564e18?source=rss-114a44c68324------2)
 - [Prompt Engineering Isn’t Enough: Writing Better Instructions in Copilot Studio](https://nidhig631.medium.com/prompt-engineering-isnt-enough-writing-better-instructions-in-copilot-studio-de0e245d60a8?source=rss-114a44c68324------2)
 - [A Small Databricks Feature That Makes Demos and Knowledge Sharing Easier](https://nidhig631.medium.com/a-small-databricks-feature-that-makes-demos-and-knowledge-sharing-easier-bf51305d8234?source=rss-114a44c68324------2)
-- [Ingest Google Drive files into Azure Databricks](https://nidhig631.medium.com/ingest-google-drive-files-into-azure-databricks-f06d263d84ec?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
