@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Import an Agent Developed in Copilot Studio](https://nidhig631.medium.com/how-to-import-an-agent-developed-in-copilot-studio-c8e92e430374?source=rss-114a44c68324------2)
 - [How to Export an Agent Developed in Copilot Studio?](https://nidhig631.medium.com/how-to-export-an-agent-developed-in-copilot-studio-c185d15e9cef?source=rss-114a44c68324------2)
 - [Migration from Azure Data Factory&lpar;ADF&rpar; to Databricks Lakeflow Jobs](https://nidhig631.medium.com/migration-from-azure-data-factory-adf-to-databricks-lakeflow-ee96d4e14d71?source=rss-114a44c68324------2)
 - [Building an Employee Onboarding Agent using Agentic AI with Copilot Studio](https://nidhig631.medium.com/building-an-employee-onboarding-agent-using-agentic-ai-with-copilot-studio-0bf89692e49a?source=rss-114a44c68324------2)
 - [Stop Guessing Your Data’s Trust Level: Use Databricks System Tags](https://nidhig631.medium.com/stop-guessing-your-datas-trust-level-use-databricks-system-tags-231dbfa186f9?source=rss-114a44c68324------2)
-- [Mastering Feedback in Microsoft Copilot Studio: How Smart Teams Make Their Copilots Better](https://nidhig631.medium.com/mastering-feedback-in-microsoft-copilot-studio-how-smart-teams-make-their-copilots-better-f6f80abff35f?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
