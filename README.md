@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling NULLs in Databricks Using the “&lt; = &gt;” Null-Safe Operator](https://nidhig631.medium.com/handling-nulls-in-databricks-using-the-null-safe-operator-da57953d87ba?source=rss-114a44c68324------2)
 - [Databricks Identity Columns to Generate Surrogate Keys](https://nidhig631.medium.com/databricks-identity-columns-to-generate-surrogate-keys-70c7ab833d36?source=rss-114a44c68324------2)
 - [How to Import an Agent Developed in Copilot Studio](https://nidhig631.medium.com/how-to-import-an-agent-developed-in-copilot-studio-c8e92e430374?source=rss-114a44c68324------2)
 - [How to Export an Agent Developed in Copilot Studio?](https://nidhig631.medium.com/how-to-export-an-agent-developed-in-copilot-studio-c185d15e9cef?source=rss-114a44c68324------2)
 - [Migration from Azure Data Factory&lpar;ADF&rpar; to Databricks Lakeflow Jobs](https://nidhig631.medium.com/migration-from-azure-data-factory-adf-to-databricks-lakeflow-ee96d4e14d71?source=rss-114a44c68324------2)
-- [Building an Employee Onboarding Agent using Agentic AI with Copilot Studio](https://nidhig631.medium.com/building-an-employee-onboarding-agent-using-agentic-ai-with-copilot-studio-0bf89692e49a?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
