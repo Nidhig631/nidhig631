@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s New in Azure Databricks at FabCon 2026: Lakebase, Lakeflow, and Genie](https://nidhig631.medium.com/whats-new-in-azure-databricks-at-fabcon-2026-lakebase-lakeflow-and-genie-61ca4ece52eb?source=rss-114a44c68324------2)
 - [Handling NULLs in Spark SQL](https://nidhig631.medium.com/handling-nulls-in-spark-sql-68cd74d3808a?source=rss-114a44c68324------2)
 - [Genie Code: Background Agents That Keep Your Data Workloads Healthy](https://nidhig631.medium.com/genie-code-background-agents-that-keep-your-data-workloads-healthy-eada9a1a4eb8?source=rss-114a44c68324------2)
 - [NEW Microsoft Certification Just Dropped — Azure Databricks for Data Engineers! | Exam DP-750](https://nidhig631.medium.com/new-microsoft-certification-just-dropped-azure-databricks-for-data-engineers-exam-dp-750-99a5427c2685?source=rss-114a44c68324------2)
 - [NEW Microsoft Certification Just Dropped — SQL Meets AI! | Exam DP-800](https://nidhig631.medium.com/new-microsoft-certification-just-dropped-sql-meets-ai-exam-dp-800-201a231bcfe1?source=rss-114a44c68324------2)
-- [Introducing Genie Code: A New Way to Work with Data in Databricks](https://nidhig631.medium.com/introducing-genie-code-a-new-way-to-work-with-data-in-databricks-6d7eb80dc954?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
