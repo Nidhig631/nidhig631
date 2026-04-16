@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks AI/BI Genie Space: Unlocking Generative AI on Delta Tables for Smarter Analytics](https://nidhig631.medium.com/databricks-ai-bi-genie-space-unlocking-generative-ai-on-delta-tables-for-smarter-analytics-010ed95da310?source=rss-114a44c68324------2)
+- [Embed a Databricks Genie space in an External Website or Application](https://nidhig631.medium.com/embed-a-databricks-genie-space-in-an-external-website-or-application-59d914b58817?source=rss-114a44c68324------2)
 - [How to enable a custom URL in Azure Databricks?](https://nidhig631.medium.com/how-to-enable-a-custom-url-in-azure-databricks-966970509d41?source=rss-114a44c68324------2)
 - [Databricks Metric Views](https://nidhig631.medium.com/metric-views-827e1b33c39b?source=rss-114a44c68324------2)
 - [Databricks Delta Lake’s Next Evolution: Understanding Catalog Managed Commits &lpar;CMC&rpar;](https://nidhig631.medium.com/databricks-delta-lakes-next-evolution-understanding-catalog-managed-commits-cmc-f808f5e9b0b1?source=rss-114a44c68324------2)
-- [Databricks SQL Runtime 18.0 and above: ATOMIC Compound Statement](https://nidhig631.medium.com/databricks-atomic-compound-statement-bf17326485ab?source=rss-114a44c68324------2)
-- [What’s New in Azure Databricks at FabCon 2026: Lakebase, Lakeflow, and Genie](https://nidhig631.medium.com/whats-new-in-azure-databricks-at-fabcon-2026-lakebase-lakeflow-and-genie-61ca4ece52eb?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
