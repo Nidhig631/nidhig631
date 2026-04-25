@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks Lakeflow Designer — Design Visual data preps](https://nidhig631.medium.com/databricks-lakeflow-designer-design-visual-data-preps-04d70f6eaf1a?source=rss-114a44c68324------2)
 - [Part 2 - How to Connect Genie to a Copilot Agent in Copilot Studio: A Complete Guide](https://nidhig631.medium.com/part-2-how-to-connect-genie-to-a-copilot-agent-in-copilot-studio-a-complete-guide-72a410e14817?source=rss-114a44c68324------2)
 - [Databricks AI/BI Genie Space: Unlocking Generative AI on Delta Tables for Smarter Analytics](https://nidhig631.medium.com/databricks-ai-bi-genie-space-unlocking-generative-ai-on-delta-tables-for-smarter-analytics-010ed95da310?source=rss-114a44c68324------2)
 - [Embed a Databricks Genie space in an External Website or Application](https://nidhig631.medium.com/embed-a-databricks-genie-space-in-an-external-website-or-application-59d914b58817?source=rss-114a44c68324------2)
 - [How to enable a custom URL in Azure Databricks?](https://nidhig631.medium.com/how-to-enable-a-custom-url-in-azure-databricks-966970509d41?source=rss-114a44c68324------2)
-- [Databricks Metric Views](https://nidhig631.medium.com/metric-views-827e1b33c39b?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
