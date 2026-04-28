@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Secret Key Generation &amp; Adding it to Azure Key Vault](https://nidhig631.medium.com/azure-secret-key-generation-adding-it-to-azure-key-vault-dbbd6de95837?source=rss-114a44c68324------2)
 - [Medallion Architecture: Fact &amp; Dimension Table Design in Databricks](https://nidhig631.medium.com/medallion-architecture-fact-dimension-table-design-in-databricks-95ba520da9f2?source=rss-114a44c68324------2)
 - [Databricks Lakeflow Designer — Design Visual data preps](https://nidhig631.medium.com/databricks-lakeflow-designer-design-visual-data-preps-04d70f6eaf1a?source=rss-114a44c68324------2)
 - [Part 2 - How to Connect Genie to a Copilot Agent in Copilot Studio: A Complete Guide](https://nidhig631.medium.com/part-2-how-to-connect-genie-to-a-copilot-agent-in-copilot-studio-a-complete-guide-72a410e14817?source=rss-114a44c68324------2)
 - [Databricks AI/BI Genie Space: Unlocking Generative AI on Delta Tables for Smarter Analytics](https://nidhig631.medium.com/databricks-ai-bi-genie-space-unlocking-generative-ai-on-delta-tables-for-smarter-analytics-010ed95da310?source=rss-114a44c68324------2)
-- [Embed a Databricks Genie space in an External Website or Application](https://nidhig631.medium.com/embed-a-databricks-genie-space-in-an-external-website-or-application-59d914b58817?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
