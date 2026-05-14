@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Cost Usage Tracking Per Pipeline in Azure Data Factory?](https://nidhig631.medium.com/how-to-enable-cost-usage-tracking-per-pipeline-in-azure-data-factory-8200ec368ab5?source=rss-114a44c68324------2)
 - [Why You Cannot Choose the SQL Warehouse in Databricks Chat &amp; Assistant Features?](https://nidhig631.medium.com/why-you-cannot-choose-the-sql-warehouse-in-databricks-chat-assistant-features-0a8b26174bca?source=rss-114a44c68324------2)
 - [Goodbye Databricks One, Hello Genie UI: The Future of Data Experience- A New Anytime, Anywhere…](https://nidhig631.medium.com/goodbye-databricks-one-hello-genie-ui-the-future-of-data-experience-a-new-anytime-anywhere-43df6f3173bb?source=rss-114a44c68324------2)
 - [How Switching from Databricks JDBC/ODBC Clusters to Serverless SQL Warehouses Boosted Our Power BI…](https://nidhig631.medium.com/how-switching-from-databricks-jdbc-odbc-clusters-to-serverless-sql-warehouses-boosted-our-power-bi-7d31b96560de?source=rss-114a44c68324------2)
 - [Azure Secret Key Generation &amp; Adding it to Azure Key Vault](https://nidhig631.medium.com/azure-secret-key-generation-adding-it-to-azure-key-vault-dbbd6de95837?source=rss-114a44c68324------2)
-- [Medallion Architecture: Fact &amp; Dimension Table Design in Databricks](https://nidhig631.medium.com/medallion-architecture-fact-dimension-table-design-in-databricks-95ba520da9f2?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
