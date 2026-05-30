@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks Genie vs Databricks Genie Code](https://nidhig631.medium.com/databricks-genie-vs-databricks-genie-code-62eee08b98c3?source=rss-114a44c68324------2)
 - [Designing a Modern Cloud Data Solution on Azure Using Databricks Lakehouse Architecture](https://nidhig631.medium.com/designing-a-modern-cloud-data-solution-on-azure-using-databricks-lakehouse-architecture-f588b1f71de2?source=rss-114a44c68324------2)
 - [Mastering the ROW_NUMBER&lpar;&rpar;Consecutive-Gaps-and-Islands Pattern in SQL](https://nidhig631.medium.com/mastering-the-row-number-consecutive-gaps-and-islands-pattern-in-sql-2da32651a45d?source=rss-114a44c68324------2)
 - [Unpivot and Pivot in SQL](https://nidhig631.medium.com/unpivot-and-pivot-in-sql-cf747770d3c9?source=rss-114a44c68324------2)
 - [Automating Insights with Scheduled Tasks in Databricks Genie Interface](https://nidhig631.medium.com/automating-insights-with-scheduled-tasks-in-databricks-genie-interface-2fc56a78adc5?source=rss-114a44c68324------2)
-- [How to Enable Cost Usage Tracking Per Pipeline in Azure Data Factory?](https://nidhig631.medium.com/how-to-enable-cost-usage-tracking-per-pipeline-in-azure-data-factory-8200ec368ab5?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
