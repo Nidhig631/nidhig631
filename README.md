@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Difference Between a Junior and Senior Data Engineer: Key Pipeline Design Concepts](https://nidhig631.medium.com/the-difference-between-a-junior-and-senior-data-engineer-key-pipeline-design-concepts-a6801d49e030?source=rss-114a44c68324------2)
 - [Claude Mythos &amp; Databricks LakeWatch](https://nidhig631.medium.com/claude-mythos-databricks-lakewatch-063413194c9e?source=rss-114a44c68324------2)
 - [Databricks Genie vs Databricks Genie Code](https://nidhig631.medium.com/databricks-genie-vs-databricks-genie-code-62eee08b98c3?source=rss-114a44c68324------2)
 - [Designing a Modern Cloud Data Solution on Azure Using Databricks Lakehouse Architecture](https://nidhig631.medium.com/designing-a-modern-cloud-data-solution-on-azure-using-databricks-lakehouse-architecture-f588b1f71de2?source=rss-114a44c68324------2)
 - [Mastering the ROW_NUMBER&lpar;&rpar;Consecutive-Gaps-and-Islands Pattern in SQL](https://nidhig631.medium.com/mastering-the-row-number-consecutive-gaps-and-islands-pattern-in-sql-2da32651a45d?source=rss-114a44c68324------2)
-- [Unpivot and Pivot in SQL](https://nidhig631.medium.com/unpivot-and-pivot-in-sql-cf747770d3c9?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
