@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Query Federation vs Lakeflow Connect in Databricks: When to Query and When to Ingest](https://nidhig631.medium.com/query-federation-vs-lakeflow-connect-in-databricks-when-to-query-and-when-to-ingest-d7a56933ac12?source=rss-114a44c68324------2)
 - [Databricks Foreign Table](https://nidhig631.medium.com/databricks-foreign-table-f270aca54f57?source=rss-114a44c68324------2)
 - [Databricks Genie Code Gets a Full Page Command Centre](https://nidhig631.medium.com/databricks-genie-code-gets-a-full-page-command-centre-c4fbce3b72af?source=rss-114a44c68324------2)
 - [Databricks SQL Error Handling:](https://nidhig631.medium.com/databricks-sql-error-handling-91a999759a5e?source=rss-114a44c68324------2)
 - [The Difference Between a Junior and Senior Data Engineer: Key Pipeline Design Concepts](https://nidhig631.medium.com/the-difference-between-a-junior-and-senior-data-engineer-key-pipeline-design-concepts-a6801d49e030?source=rss-114a44c68324------2)
-- [Claude Mythos &amp; Databricks LakeWatch](https://nidhig631.medium.com/claude-mythos-databricks-lakewatch-063413194c9e?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
