@@ -30,7 +30,7 @@ I am a Database Engineer.
 - [SQL Optimisation Techniques](https://nidhig631.medium.com/sql-optimisation-techniques-6edb478b6ed4?source=rss-114a44c68324------2)
 - [Query Federation vs Lakeflow Connect in Databricks: When to Query and When to Ingest](https://nidhig631.medium.com/query-federation-vs-lakeflow-connect-in-databricks-when-to-query-and-when-to-ingest-d7a56933ac12?source=rss-114a44c68324------2)
 - [Databricks Foreign Table](https://nidhig631.medium.com/databricks-foreign-table-f270aca54f57?source=rss-114a44c68324------2)
-- [Databricks Genie Code Gets a Full Page Command Centre](https://nidhig631.medium.com/databricks-genie-code-gets-a-full-page-command-centre-c4fbce3b72af?source=rss-114a44c68324------2)
+- [Databricks Genie Code Gets a Full Page Command Centre](https://medium.com/databrickscommunity/databricks-genie-code-gets-a-full-page-command-centre-c4fbce3b72af?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
