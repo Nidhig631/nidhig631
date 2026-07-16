@@ -26,10 +26,10 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Databricks Genie Agent](https://nidhig631.medium.com/databricks-genie-agent-7744f1430148?source=rss-114a44c68324------2)
-- [Components of Databricks Genie Agents &amp; Common configuration challenges](https://nidhig631.medium.com/components-of-databricks-genie-agents-common-configuration-challenges-5c04d7e7e52f?source=rss-114a44c68324------2)
+- [Databricks Genie Agent](https://medium.com/databrickscommunity/databricks-genie-agent-7744f1430148?source=rss-114a44c68324------2)
+- [Components of Databricks Genie Agents &amp; Common configuration challenges](https://medium.com/databrickscommunity/components-of-databricks-genie-agents-common-configuration-challenges-5c04d7e7e52f?source=rss-114a44c68324------2)
 - [Understanding the Databricks Genie Family: Which Genie Is Right for You?](https://medium.com/databrickscommunity/understanding-the-databricks-genie-family-which-genie-is-right-for-you-28e9d09281e0?source=rss-114a44c68324------2)
-- [Import Power BI files using Databricks Genie Code](https://nidhig631.medium.com/import-power-bi-files-using-databricks-genie-code-ab61c5846693?source=rss-114a44c68324------2)
+- [Import Power BI files using Databricks Genie Code](https://medium.com/databrickscommunity/import-power-bi-files-using-databricks-genie-code-ab61c5846693?source=rss-114a44c68324------2)
 - [SQL Optimisation Techniques](https://nidhig631.medium.com/sql-optimisation-techniques-6edb478b6ed4?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
