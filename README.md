@@ -27,7 +27,7 @@ I am a Database Engineer.
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Embed Databricks AI/BI Dashboards into Your Application Using an iFrame](https://nidhig631.medium.com/embed-databricks-ai-bi-dashboards-into-your-application-using-an-iframe-1e6d15913a35?source=rss-114a44c68324------2)
-- [Customise the Databricks Genie One Homepage: Create a Personalised Workspace](https://nidhig631.medium.com/customise-the-databricks-genie-one-homepage-create-a-personalised-workspace-e729b0100d75?source=rss-114a44c68324------2)
+- [Customise the Databricks Genie One Homepage: Create a Personalised Workspace](https://medium.com/databrickscommunity/customise-the-databricks-genie-one-homepage-create-a-personalised-workspace-e729b0100d75?source=rss-114a44c68324------2)
 - [Do You Really Need Alation If You’re Already Using Databricks Unity Catalog?](https://nidhig631.medium.com/do-you-really-need-alation-if-youre-already-using-databricks-unity-catalog-e704ac3f7c85?source=rss-114a44c68324------2)
 - [Databricks Genie Agent](https://medium.com/databrickscommunity/databricks-genie-agent-7744f1430148?source=rss-114a44c68324------2)
 - [Components of Databricks Genie Agents &amp; Common configuration challenges](https://medium.com/databrickscommunity/components-of-databricks-genie-agents-common-configuration-challenges-5c04d7e7e52f?source=rss-114a44c68324------2)
