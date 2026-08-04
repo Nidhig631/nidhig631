@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Passion vs. Curiosity: How I See the Databricks MVP and Champion Journey.](https://nidhig631.medium.com/passion-vs-curiosity-how-i-see-the-databricks-mvp-and-champion-journey-7f6b67fcd4dc?source=rss-114a44c68324------2)
+- [What Becoming a Databricks Champion Really Taught Me](https://nidhig631.medium.com/what-becoming-a-databricks-champion-really-taught-me-517a938c4435?source=rss-114a44c68324------2)
 - [Genie One Features: Create Agents, Documents, Schedule Tasks &amp; Save as a Skill](https://medium.com/databrickscommunity/genie-one-features-create-agents-documents-schedule-tasks-save-as-a-skill-ddc1e40869e4?source=rss-114a44c68324------2)
 - [Understanding the Databricks Workspace Entitlements](https://nidhig631.medium.com/understanding-the-databricks-workspace-entitlements-e76ff2d556f6?source=rss-114a44c68324------2)
 - [Embed Databricks AI/BI Dashboards into Your Application Using an iFrame](https://nidhig631.medium.com/embed-databricks-ai-bi-dashboards-into-your-application-using-an-iframe-1e6d15913a35?source=rss-114a44c68324------2)
-- [Customise the Databricks Genie One Homepage: Create a Personalised Workspace](https://medium.com/databrickscommunity/customise-the-databricks-genie-one-homepage-create-a-personalised-workspace-e729b0100d75?source=rss-114a44c68324------2)
-- [Do You Really Need Alation If You’re Already Using Databricks Unity Catalog?](https://nidhig631.medium.com/do-you-really-need-alation-if-youre-already-using-databricks-unity-catalog-e704ac3f7c85?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
