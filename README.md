@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks Genie Pages](https://nidhig631.medium.com/databricks-genie-pages-2665d8b8b13b?source=rss-114a44c68324------2)
 - [DISTINCT vs UNIQUE in Power BI: Explained in Simple Terms](https://nidhig631.medium.com/distinct-vs-unique-in-power-bi-explained-in-simple-terms-dce467310037?source=rss-114a44c68324------2)
 - [Power BI Gateway + RLS: What Happens When a User Opens a Report?](https://nidhig631.medium.com/power-bi-gateway-rls-what-happens-when-a-user-opens-a-report-049ff358f37d?source=rss-114a44c68324------2)
 - [Databricks SQL Alerts: Turn SQL Queries into Proactive Data Monitoring](https://nidhig631.medium.com/databricks-sql-alerts-turn-sql-queries-into-proactive-data-monitoring-9d29795c0da7?source=rss-114a44c68324------2)
 - [Databricks Genie Ontology](https://medium.com/databrickscommunity/databricks-genie-ontology-53fa0940fe6d?source=rss-114a44c68324------2)
-- [Passion vs. Curiosity: How I See the Databricks MVP and Champion Journey.](https://nidhig631.medium.com/passion-vs-curiosity-how-i-see-the-databricks-mvp-and-champion-journey-7f6b67fcd4dc?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
