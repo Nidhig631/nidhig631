@@ -26,7 +26,7 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Databricks Dataset Materialization](https://nidhig631.medium.com/databricks-dataset-materialization-594bef4f21ce?source=rss-114a44c68324------2)
+- [Databricks Dataset Materialization](https://medium.com/databrickscommunity/databricks-dataset-materialization-594bef4f21ce?source=rss-114a44c68324------2)
 - [Databricks Genie Pages vs Metric Views vs Genie Agents](https://medium.com/databrickscommunity/databricks-genie-pages-vs-metric-views-vs-genie-agents-833bb0325db0?source=rss-114a44c68324------2)
 - [Databricks Genie Pages](https://medium.com/databrickscommunity/databricks-genie-pages-2665d8b8b13b?source=rss-114a44c68324------2)
 - [DISTINCT vs UNIQUE in Power BI: Explained in Simple Terms](https://nidhig631.medium.com/distinct-vs-unique-in-power-bi-explained-in-simple-terms-dce467310037?source=rss-114a44c68324------2)
