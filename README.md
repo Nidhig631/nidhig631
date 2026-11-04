@@ -27,7 +27,7 @@ I am a Database Engineer.
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [ROW_NUMBER vs RANK vs DENSE_RANK in SQL: Simple Examples to Understand the Difference.](https://nidhig631.medium.com/row-number-vs-rank-vs-dense-rank-in-sql-simple-examples-to-understand-the-difference-a06c04528567?source=rss-114a44c68324------2)
-- [Databricks Performance Optimization](https://nidhig631.medium.com/databricks-performance-optimization-67a7290da725?source=rss-114a44c68324------2)
+- [Databricks Performance Optimization](https://medium.com/databrickscommunity/databricks-performance-optimization-67a7290da725?source=rss-114a44c68324------2)
 - [Databricks Dataset Materialization](https://medium.com/databrickscommunity/databricks-dataset-materialization-594bef4f21ce?source=rss-114a44c68324------2)
 - [Databricks Genie Pages vs Metric Views vs Genie Agents](https://medium.com/databrickscommunity/databricks-genie-pages-vs-metric-views-vs-genie-agents-833bb0325db0?source=rss-114a44c68324------2)
 - [Databricks Genie Pages](https://medium.com/databrickscommunity/databricks-genie-pages-2665d8b8b13b?source=rss-114a44c68324------2)
