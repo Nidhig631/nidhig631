@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks CLUSTER BY AUTO vs CLUSTER BY &lpar;columns&rpar;](https://nidhig631.medium.com/databricks-cluster-by-auto-vs-cluster-by-columns-779f3e367594?source=rss-114a44c68324------2)
+- [Partitioning vs. Liquid Clustering](https://nidhig631.medium.com/partitioning-vs-liquid-clustering-e880af45088f?source=rss-114a44c68324------2)
+- [Databricks Liquid Clustering vs. Z-ORDER](https://nidhig631.medium.com/databricks-liquid-clustering-vs-z-order-24e3e8a06e07?source=rss-114a44c68324------2)
 - [ROW_NUMBER vs RANK vs DENSE_RANK in SQL: Simple Examples to Understand the Difference.](https://nidhig631.medium.com/row-number-vs-rank-vs-dense-rank-in-sql-simple-examples-to-understand-the-difference-a06c04528567?source=rss-114a44c68324------2)
 - [Databricks Performance Optimization](https://medium.com/databrickscommunity/databricks-performance-optimization-67a7290da725?source=rss-114a44c68324------2)
-- [Databricks Dataset Materialization](https://medium.com/databrickscommunity/databricks-dataset-materialization-594bef4f21ce?source=rss-114a44c68324------2)
-- [Databricks Genie Pages vs Metric Views vs Genie Agents](https://medium.com/databrickscommunity/databricks-genie-pages-vs-metric-views-vs-genie-agents-833bb0325db0?source=rss-114a44c68324------2)
-- [Databricks Genie Pages](https://medium.com/databrickscommunity/databricks-genie-pages-2665d8b8b13b?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
