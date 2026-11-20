@@ -26,11 +26,11 @@ I am a Database Engineer.
  
 ## ✍Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction: One Platform, Multiple Experiences](https://nidhig631.medium.com/introduction-one-platform-multiple-experiences-80a2bbd14153?source=rss-114a44c68324------2)
 - [Understanding the Databricks Platform: How Everything Is Organised and Who Uses What?](https://nidhig631.medium.com/understanding-the-databricks-platform-how-everything-is-organised-and-who-uses-what-be8441262f31?source=rss-114a44c68324------2)
 - [Databricks Partner Blog Program](https://nidhig631.medium.com/databricks-partner-blog-program-ab4ec394d969?source=rss-114a44c68324------2)
 - [Databricks CLUSTER BY AUTO vs CLUSTER BY &lpar;columns&rpar;](https://nidhig631.medium.com/databricks-cluster-by-auto-vs-cluster-by-columns-779f3e367594?source=rss-114a44c68324------2)
 - [Partitioning vs. Liquid Clustering](https://nidhig631.medium.com/partitioning-vs-liquid-clustering-e880af45088f?source=rss-114a44c68324------2)
-- [Databricks Liquid Clustering vs. Z-ORDER](https://nidhig631.medium.com/databricks-liquid-clustering-vs-z-order-24e3e8a06e07?source=rss-114a44c68324------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nidhig631/0" alt="Recent Article 0"> 
